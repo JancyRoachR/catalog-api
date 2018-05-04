@@ -23860,7 +23860,7 @@
     "code_num": 78,
     "collection": null,
     "physical_format": null,
-    "display_order": 67
+    "display_order": 74
   },
   "model": "base.itypeproperty",
   "pk": 2
@@ -23872,7 +23872,7 @@
     "code_num": 77,
     "collection": null,
     "physical_format": null,
-    "display_order": 66
+    "display_order": 73
   },
   "model": "base.itypeproperty",
   "pk": 3
@@ -23920,7 +23920,7 @@
     "code_num": 41,
     "collection": null,
     "physical_format": null,
-    "display_order": 37
+    "display_order": 38
   },
   "model": "base.itypeproperty",
   "pk": 8
@@ -23932,7 +23932,7 @@
     "code_num": 40,
     "collection": null,
     "physical_format": null,
-    "display_order": 36
+    "display_order": 37
   },
   "model": "base.itypeproperty",
   "pk": 9
@@ -23944,7 +23944,7 @@
     "code_num": 82,
     "collection": null,
     "physical_format": null,
-    "display_order": 70
+    "display_order": 77
   },
   "model": "base.itypeproperty",
   "pk": 10
@@ -23956,7 +23956,7 @@
     "code_num": 83,
     "collection": null,
     "physical_format": null,
-    "display_order": 71
+    "display_order": 78
   },
   "model": "base.itypeproperty",
   "pk": 11
@@ -23968,7 +23968,7 @@
     "code_num": 80,
     "collection": null,
     "physical_format": null,
-    "display_order": 68
+    "display_order": 75
   },
   "model": "base.itypeproperty",
   "pk": 12
@@ -23980,7 +23980,7 @@
     "code_num": 81,
     "collection": null,
     "physical_format": null,
-    "display_order": 69
+    "display_order": 76
   },
   "model": "base.itypeproperty",
   "pk": 13
@@ -23992,7 +23992,7 @@
     "code_num": 85,
     "collection": null,
     "physical_format": null,
-    "display_order": 72
+    "display_order": 79
   },
   "model": "base.itypeproperty",
   "pk": 14
@@ -24004,7 +24004,7 @@
     "code_num": 67,
     "collection": null,
     "physical_format": null,
-    "display_order": 58
+    "display_order": 63
   },
   "model": "base.itypeproperty",
   "pk": 15
@@ -24016,7 +24016,7 @@
     "code_num": 125,
     "collection": null,
     "physical_format": null,
-    "display_order": 87
+    "display_order": 96
   },
   "model": "base.itypeproperty",
   "pk": 16
@@ -24028,7 +24028,7 @@
     "code_num": 126,
     "collection": null,
     "physical_format": null,
-    "display_order": 88
+    "display_order": 97
   },
   "model": "base.itypeproperty",
   "pk": 17
@@ -24040,7 +24040,7 @@
     "code_num": 66,
     "collection": null,
     "physical_format": null,
-    "display_order": 57
+    "display_order": 62
   },
   "model": "base.itypeproperty",
   "pk": 18
@@ -24052,7 +24052,7 @@
     "code_num": 127,
     "collection": null,
     "physical_format": null,
-    "display_order": 89
+    "display_order": 98
   },
   "model": "base.itypeproperty",
   "pk": 19
@@ -24064,7 +24064,7 @@
     "code_num": 69,
     "collection": null,
     "physical_format": null,
-    "display_order": 60
+    "display_order": 65
   },
   "model": "base.itypeproperty",
   "pk": 20
@@ -24076,7 +24076,7 @@
     "code_num": 68,
     "collection": null,
     "physical_format": null,
-    "display_order": 59
+    "display_order": 64
   },
   "model": "base.itypeproperty",
   "pk": 22
@@ -24280,7 +24280,7 @@
     "code_num": 70,
     "collection": null,
     "physical_format": null,
-    "display_order": 61
+    "display_order": 66
   },
   "model": "base.itypeproperty",
   "pk": 41
@@ -24304,7 +24304,7 @@
     "code_num": 71,
     "collection": null,
     "physical_format": null,
-    "display_order": 62
+    "display_order": 67
   },
   "model": "base.itypeproperty",
   "pk": 43
@@ -24328,7 +24328,7 @@
     "code_num": 72,
     "collection": null,
     "physical_format": null,
-    "display_order": 63
+    "display_order": 68
   },
   "model": "base.itypeproperty",
   "pk": 45
@@ -24340,7 +24340,7 @@
     "code_num": 75,
     "collection": null,
     "physical_format": null,
-    "display_order": 64
+    "display_order": 71
   },
   "model": "base.itypeproperty",
   "pk": 48
@@ -24352,7 +24352,7 @@
     "code_num": 76,
     "collection": null,
     "physical_format": null,
-    "display_order": 65
+    "display_order": 72
   },
   "model": "base.itypeproperty",
   "pk": 49
@@ -24364,7 +24364,7 @@
     "code_num": 59,
     "collection": null,
     "physical_format": null,
-    "display_order": 50
+    "display_order": 55
   },
   "model": "base.itypeproperty",
   "pk": 50
@@ -24376,7 +24376,7 @@
     "code_num": 57,
     "collection": null,
     "physical_format": null,
-    "display_order": 49
+    "display_order": 54
   },
   "model": "base.itypeproperty",
   "pk": 51
@@ -24400,7 +24400,7 @@
     "code_num": 56,
     "collection": null,
     "physical_format": null,
-    "display_order": 48
+    "display_order": 53
   },
   "model": "base.itypeproperty",
   "pk": 53
@@ -24412,7 +24412,7 @@
     "code_num": 55,
     "collection": null,
     "physical_format": null,
-    "display_order": 47
+    "display_order": 52
   },
   "model": "base.itypeproperty",
   "pk": 54
@@ -24544,7 +24544,7 @@
     "code_num": 106,
     "collection": null,
     "physical_format": null,
-    "display_order": 83
+    "display_order": 90
   },
   "model": "base.itypeproperty",
   "pk": 65
@@ -24556,7 +24556,7 @@
     "code_num": 64,
     "collection": null,
     "physical_format": null,
-    "display_order": 55
+    "display_order": 60
   },
   "model": "base.itypeproperty",
   "pk": 66
@@ -24568,7 +24568,7 @@
     "code_num": 65,
     "collection": null,
     "physical_format": null,
-    "display_order": 56
+    "display_order": 61
   },
   "model": "base.itypeproperty",
   "pk": 67
@@ -24580,7 +24580,7 @@
     "code_num": 105,
     "collection": null,
     "physical_format": null,
-    "display_order": 82
+    "display_order": 89
   },
   "model": "base.itypeproperty",
   "pk": 68
@@ -24592,7 +24592,7 @@
     "code_num": 62,
     "collection": null,
     "physical_format": null,
-    "display_order": 53
+    "display_order": 58
   },
   "model": "base.itypeproperty",
   "pk": 69
@@ -24604,7 +24604,7 @@
     "code_num": 63,
     "collection": null,
     "physical_format": null,
-    "display_order": 54
+    "display_order": 59
   },
   "model": "base.itypeproperty",
   "pk": 70
@@ -24616,7 +24616,7 @@
     "code_num": 60,
     "collection": null,
     "physical_format": null,
-    "display_order": 51
+    "display_order": 56
   },
   "model": "base.itypeproperty",
   "pk": 71
@@ -24628,7 +24628,7 @@
     "code_num": 61,
     "collection": null,
     "physical_format": null,
-    "display_order": 52
+    "display_order": 57
   },
   "model": "base.itypeproperty",
   "pk": 72
@@ -24640,7 +24640,7 @@
     "code_num": 49,
     "collection": null,
     "physical_format": null,
-    "display_order": 41
+    "display_order": 46
   },
   "model": "base.itypeproperty",
   "pk": 75
@@ -24652,7 +24652,7 @@
     "code_num": 96,
     "collection": null,
     "physical_format": null,
-    "display_order": 79
+    "display_order": 86
   },
   "model": "base.itypeproperty",
   "pk": 77
@@ -24664,7 +24664,7 @@
     "code_num": 95,
     "collection": null,
     "physical_format": null,
-    "display_order": 78
+    "display_order": 85
   },
   "model": "base.itypeproperty",
   "pk": 78
@@ -24676,7 +24676,7 @@
     "code_num": 94,
     "collection": null,
     "physical_format": null,
-    "display_order": 77
+    "display_order": 84
   },
   "model": "base.itypeproperty",
   "pk": 79
@@ -24700,7 +24700,7 @@
     "code_num": 51,
     "collection": null,
     "physical_format": null,
-    "display_order": 43
+    "display_order": 48
   },
   "model": "base.itypeproperty",
   "pk": 83
@@ -24712,7 +24712,7 @@
     "code_num": 52,
     "collection": null,
     "physical_format": null,
-    "display_order": 44
+    "display_order": 49
   },
   "model": "base.itypeproperty",
   "pk": 84
@@ -24724,7 +24724,7 @@
     "code_num": 53,
     "collection": null,
     "physical_format": null,
-    "display_order": 45
+    "display_order": 50
   },
   "model": "base.itypeproperty",
   "pk": 85
@@ -24736,7 +24736,7 @@
     "code_num": 54,
     "collection": null,
     "physical_format": null,
-    "display_order": 46
+    "display_order": 51
   },
   "model": "base.itypeproperty",
   "pk": 86
@@ -24748,7 +24748,7 @@
     "code_num": 50,
     "collection": null,
     "physical_format": null,
-    "display_order": 42
+    "display_order": 47
   },
   "model": "base.itypeproperty",
   "pk": 87
@@ -24760,7 +24760,7 @@
     "code_num": 104,
     "collection": null,
     "physical_format": null,
-    "display_order": 81
+    "display_order": 88
   },
   "model": "base.itypeproperty",
   "pk": 92
@@ -24772,7 +24772,7 @@
     "code_num": 110,
     "collection": null,
     "physical_format": null,
-    "display_order": 84
+    "display_order": 91
   },
   "model": "base.itypeproperty",
   "pk": 93
@@ -24784,7 +24784,7 @@
     "code_num": 103,
     "collection": null,
     "physical_format": null,
-    "display_order": 80
+    "display_order": 87
   },
   "model": "base.itypeproperty",
   "pk": 94
@@ -24796,7 +24796,7 @@
     "code_num": 92,
     "collection": null,
     "physical_format": null,
-    "display_order": 75
+    "display_order": 82
   },
   "model": "base.itypeproperty",
   "pk": 95
@@ -24808,7 +24808,7 @@
     "code_num": 91,
     "collection": null,
     "physical_format": null,
-    "display_order": 74
+    "display_order": 81
   },
   "model": "base.itypeproperty",
   "pk": 96
@@ -24820,7 +24820,7 @@
     "code_num": 90,
     "collection": null,
     "physical_format": null,
-    "display_order": 73
+    "display_order": 80
   },
   "model": "base.itypeproperty",
   "pk": 97
@@ -24832,7 +24832,7 @@
     "code_num": 93,
     "collection": null,
     "physical_format": null,
-    "display_order": 76
+    "display_order": 83
   },
   "model": "base.itypeproperty",
   "pk": 98
@@ -24856,7 +24856,7 @@
     "code_num": 39,
     "collection": null,
     "physical_format": null,
-    "display_order": 35
+    "display_order": 36
   },
   "model": "base.itypeproperty",
   "pk": 101
@@ -24868,7 +24868,7 @@
     "code_num": 200,
     "collection": null,
     "physical_format": null,
-    "display_order": 90
+    "display_order": 99
   },
   "model": "base.itypeproperty",
   "pk": 102
@@ -24880,7 +24880,7 @@
     "code_num": 111,
     "collection": null,
     "physical_format": null,
-    "display_order": 85
+    "display_order": 92
   },
   "model": "base.itypeproperty",
   "pk": 104
@@ -24904,7 +24904,7 @@
     "code_num": 43,
     "collection": null,
     "physical_format": null,
-    "display_order": 39
+    "display_order": 40
   },
   "model": "base.itypeproperty",
   "pk": 106
@@ -24916,7 +24916,7 @@
     "code_num": 42,
     "collection": null,
     "physical_format": null,
-    "display_order": 38
+    "display_order": 39
   },
   "model": "base.itypeproperty",
   "pk": 107
@@ -24928,7 +24928,7 @@
     "code_num": 44,
     "collection": null,
     "physical_format": null,
-    "display_order": 40
+    "display_order": 41
   },
   "model": "base.itypeproperty",
   "pk": 108
@@ -24940,10 +24940,118 @@
     "code_num": 112,
     "collection": null,
     "physical_format": null,
-    "display_order": 86
+    "display_order": 93
   },
   "model": "base.itypeproperty",
   "pk": 109
+},
+{
+  "fields": {
+    "itype_property_category": null,
+    "target_audience": null,
+    "code_num": 38,
+    "collection": null,
+    "physical_format": null,
+    "display_order": 35
+  },
+  "model": "base.itypeproperty",
+  "pk": 110
+},
+{
+  "fields": {
+    "itype_property_category": null,
+    "target_audience": null,
+    "code_num": 113,
+    "collection": null,
+    "physical_format": null,
+    "display_order": 94
+  },
+  "model": "base.itypeproperty",
+  "pk": 111
+},
+{
+  "fields": {
+    "itype_property_category": null,
+    "target_audience": null,
+    "code_num": 73,
+    "collection": null,
+    "physical_format": null,
+    "display_order": 69
+  },
+  "model": "base.itypeproperty",
+  "pk": 112
+},
+{
+  "fields": {
+    "itype_property_category": null,
+    "target_audience": null,
+    "code_num": 74,
+    "collection": null,
+    "physical_format": null,
+    "display_order": 70
+  },
+  "model": "base.itypeproperty",
+  "pk": 113
+},
+{
+  "fields": {
+    "itype_property_category": null,
+    "target_audience": null,
+    "code_num": 48,
+    "collection": null,
+    "physical_format": null,
+    "display_order": 45
+  },
+  "model": "base.itypeproperty",
+  "pk": 114
+},
+{
+  "fields": {
+    "itype_property_category": null,
+    "target_audience": null,
+    "code_num": 45,
+    "collection": null,
+    "physical_format": null,
+    "display_order": 42
+  },
+  "model": "base.itypeproperty",
+  "pk": 115
+},
+{
+  "fields": {
+    "itype_property_category": null,
+    "target_audience": null,
+    "code_num": 47,
+    "collection": null,
+    "physical_format": null,
+    "display_order": 44
+  },
+  "model": "base.itypeproperty",
+  "pk": 116
+},
+{
+  "fields": {
+    "itype_property_category": null,
+    "target_audience": null,
+    "code_num": 46,
+    "collection": null,
+    "physical_format": null,
+    "display_order": 43
+  },
+  "model": "base.itypeproperty",
+  "pk": 117
+},
+{
+  "fields": {
+    "itype_property_category": null,
+    "target_audience": null,
+    "code_num": 114,
+    "collection": null,
+    "physical_format": null,
+    "display_order": 95
+  },
+  "model": "base.itypeproperty",
+  "pk": 118
 },
 {
   "fields": {
@@ -25675,6 +25783,78 @@
 },
 {
   "fields": {
+    "iii_language": 1,
+    "name": "6 hr reserve"
+  },
+  "model": "base.itypepropertyname",
+  "pk": 110
+},
+{
+  "fields": {
+    "iii_language": 1,
+    "name": "The Factory: 4-Day Checkout"
+  },
+  "model": "base.itypepropertyname",
+  "pk": 111
+},
+{
+  "fields": {
+    "iii_language": 1,
+    "name": "Short-term Scores"
+  },
+  "model": "base.itypepropertyname",
+  "pk": 112
+},
+{
+  "fields": {
+    "iii_language": 1,
+    "name": "Short-term Music Books"
+  },
+  "model": "base.itypepropertyname",
+  "pk": 113
+},
+{
+  "fields": {
+    "iii_language": 1,
+    "name": "Short-term LPZ"
+  },
+  "model": "base.itypepropertyname",
+  "pk": 114
+},
+{
+  "fields": {
+    "iii_language": 1,
+    "name": "Short-term LPW"
+  },
+  "model": "base.itypepropertyname",
+  "pk": 115
+},
+{
+  "fields": {
+    "iii_language": 1,
+    "name": "Short-term LPY"
+  },
+  "model": "base.itypepropertyname",
+  "pk": 116
+},
+{
+  "fields": {
+    "iii_language": 1,
+    "name": "Short-term LPX"
+  },
+  "model": "base.itypepropertyname",
+  "pk": 117
+},
+{
+  "fields": {
+    "iii_language": 1,
+    "name": "The Factory: 4-Day Accessories"
+  },
+  "model": "base.itypepropertyname",
+  "pk": 118
+},
+{
+  "fields": {
     "physical_format": null,
     "display_order": 0,
     "itype_property_category": null,
@@ -26063,6 +26243,17 @@
     "physical_format": null,
     "display_order": 35,
     "itype_property_category": null,
+    "name": "6 hr reserve",
+    "target_audience": null
+  },
+  "model": "base.itypepropertymyuser",
+  "pk": 38
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 36,
+    "itype_property_category": null,
     "name": "4 hr reserve",
     "target_audience": null
   },
@@ -26072,7 +26263,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 36,
+    "display_order": 37,
     "itype_property_category": null,
     "name": "Electronic Books",
     "target_audience": null
@@ -26083,7 +26274,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 37,
+    "display_order": 38,
     "itype_property_category": null,
     "name": "Archives",
     "target_audience": null
@@ -26094,7 +26285,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 38,
+    "display_order": 39,
     "itype_property_category": null,
     "name": "Short-term LPCD",
     "target_audience": null
@@ -26105,7 +26296,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 39,
+    "display_order": 40,
     "itype_property_category": null,
     "name": "Short-term MDVD",
     "target_audience": null
@@ -26116,7 +26307,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 40,
+    "display_order": 41,
     "itype_property_category": null,
     "name": "Short-term CD-ROM",
     "target_audience": null
@@ -26127,7 +26318,51 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 41,
+    "display_order": 42,
+    "itype_property_category": null,
+    "name": "Short-term LPW",
+    "target_audience": null
+  },
+  "model": "base.itypepropertymyuser",
+  "pk": 45
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 43,
+    "itype_property_category": null,
+    "name": "Short-term LPX",
+    "target_audience": null
+  },
+  "model": "base.itypepropertymyuser",
+  "pk": 46
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 44,
+    "itype_property_category": null,
+    "name": "Short-term LPY",
+    "target_audience": null
+  },
+  "model": "base.itypepropertymyuser",
+  "pk": 47
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 45,
+    "itype_property_category": null,
+    "name": "Short-term LPZ",
+    "target_audience": null
+  },
+  "model": "base.itypepropertymyuser",
+  "pk": 48
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 46,
     "itype_property_category": null,
     "name": "OAS",
     "target_audience": null
@@ -26138,7 +26373,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 42,
+    "display_order": 47,
     "itype_property_category": null,
     "name": "Federal Documents",
     "target_audience": null
@@ -26149,7 +26384,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 43,
+    "display_order": 48,
     "itype_property_category": null,
     "name": "Microforms",
     "target_audience": null
@@ -26160,7 +26395,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 44,
+    "display_order": 49,
     "itype_property_category": null,
     "name": "Doc. Microfiche",
     "target_audience": null
@@ -26171,7 +26406,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 45,
+    "display_order": 50,
     "itype_property_category": null,
     "name": "Texas Documents",
     "target_audience": null
@@ -26182,7 +26417,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 46,
+    "display_order": 51,
     "itype_property_category": null,
     "name": "UN Documents",
     "target_audience": null
@@ -26193,7 +26428,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 47,
+    "display_order": 52,
     "itype_property_category": null,
     "name": "Media",
     "target_audience": null
@@ -26204,7 +26439,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 48,
+    "display_order": 53,
     "itype_property_category": null,
     "name": "Poster",
     "target_audience": null
@@ -26215,7 +26450,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 49,
+    "display_order": 54,
     "itype_property_category": null,
     "name": "Document CD-ROM",
     "target_audience": null
@@ -26226,7 +26461,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 50,
+    "display_order": 55,
     "itype_property_category": null,
     "name": "Maps",
     "target_audience": null
@@ -26237,7 +26472,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 51,
+    "display_order": 56,
     "itype_property_category": null,
     "name": "Albums",
     "target_audience": null
@@ -26248,7 +26483,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 52,
+    "display_order": 57,
     "itype_property_category": null,
     "name": "Audio Cassettes",
     "target_audience": null
@@ -26259,7 +26494,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 53,
+    "display_order": 58,
     "itype_property_category": null,
     "name": "CD-ROMS",
     "target_audience": null
@@ -26270,7 +26505,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 54,
+    "display_order": 59,
     "itype_property_category": null,
     "name": "Computer Software",
     "target_audience": null
@@ -26281,7 +26516,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 55,
+    "display_order": 60,
     "itype_property_category": null,
     "name": "Filmstrips",
     "target_audience": null
@@ -26292,7 +26527,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 56,
+    "display_order": 61,
     "itype_property_category": null,
     "name": "Slides",
     "target_audience": null
@@ -26303,7 +26538,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 57,
+    "display_order": 62,
     "itype_property_category": null,
     "name": "Laser Disks",
     "target_audience": null
@@ -26314,7 +26549,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 58,
+    "display_order": 63,
     "itype_property_category": null,
     "name": "Motion Pictures",
     "target_audience": null
@@ -26325,7 +26560,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 59,
+    "display_order": 64,
     "itype_property_category": null,
     "name": "Videos",
     "target_audience": null
@@ -26336,7 +26571,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 60,
+    "display_order": 65,
     "itype_property_category": null,
     "name": "Guides-Media1",
     "target_audience": null
@@ -26347,7 +26582,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 61,
+    "display_order": 66,
     "itype_property_category": null,
     "name": "Media Reserves",
     "target_audience": null
@@ -26358,7 +26593,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 62,
+    "display_order": 67,
     "itype_property_category": null,
     "name": "DVD",
     "target_audience": null
@@ -26369,7 +26604,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 63,
+    "display_order": 68,
     "itype_property_category": null,
     "name": "ACD",
     "target_audience": null
@@ -26380,7 +26615,29 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 64,
+    "display_order": 69,
+    "itype_property_category": null,
+    "name": "Short-term Scores",
+    "target_audience": null
+  },
+  "model": "base.itypepropertymyuser",
+  "pk": 73
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 70,
+    "itype_property_category": null,
+    "name": "Short-term Music Books",
+    "target_audience": null
+  },
+  "model": "base.itypepropertymyuser",
+  "pk": 74
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 71,
     "itype_property_category": null,
     "name": "online",
     "target_audience": null
@@ -26391,7 +26648,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 65,
+    "display_order": 72,
     "itype_property_category": null,
     "name": "Video Games",
     "target_audience": null
@@ -26402,7 +26659,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 66,
+    "display_order": 73,
     "itype_property_category": null,
     "name": "Board Games",
     "target_audience": null
@@ -26413,7 +26670,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 67,
+    "display_order": 74,
     "itype_property_category": null,
     "name": "Batteries",
     "target_audience": null
@@ -26424,7 +26681,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 68,
+    "display_order": 75,
     "itype_property_category": null,
     "name": "ILL BOOKS",
     "target_audience": null
@@ -26435,7 +26692,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 69,
+    "display_order": 76,
     "itype_property_category": null,
     "name": "ILL JOURNALS",
     "target_audience": null
@@ -26446,7 +26703,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 70,
+    "display_order": 77,
     "itype_property_category": null,
     "name": "ILL PROCEEDINGS",
     "target_audience": null
@@ -26457,7 +26714,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 71,
+    "display_order": 78,
     "itype_property_category": null,
     "name": "ILL DISSERTATIONS",
     "target_audience": null
@@ -26468,7 +26725,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 72,
+    "display_order": 79,
     "itype_property_category": null,
     "name": "2 hr. Reserve, No Fines",
     "target_audience": null
@@ -26479,7 +26736,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 73,
+    "display_order": 80,
     "itype_property_category": null,
     "name": "LibProMob 2hr device",
     "target_audience": null
@@ -26490,7 +26747,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 74,
+    "display_order": 81,
     "itype_property_category": null,
     "name": "LibProMob 7 day book",
     "target_audience": null
@@ -26501,7 +26758,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 75,
+    "display_order": 82,
     "itype_property_category": null,
     "name": "LibProMob 7 day $10 fine device",
     "target_audience": null
@@ -26512,7 +26769,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 76,
+    "display_order": 83,
     "itype_property_category": null,
     "name": "Makerspac 3 day $100 fine Device",
     "target_audience": null
@@ -26523,7 +26780,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 77,
+    "display_order": 84,
     "itype_property_category": null,
     "name": "Portable DVD Player",
     "target_audience": null
@@ -26534,7 +26791,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 78,
+    "display_order": 85,
     "itype_property_category": null,
     "name": "Playaway",
     "target_audience": null
@@ -26545,7 +26802,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 79,
+    "display_order": 86,
     "itype_property_category": null,
     "name": "Media Equipment",
     "target_audience": null
@@ -26556,7 +26813,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 80,
+    "display_order": 87,
     "itype_property_category": null,
     "name": "Maker Space",
     "target_audience": null
@@ -26567,7 +26824,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 81,
+    "display_order": 88,
     "itype_property_category": null,
     "name": "Laptop Charger",
     "target_audience": null
@@ -26578,7 +26835,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 82,
+    "display_order": 89,
     "itype_property_category": null,
     "name": "Laptops",
     "target_audience": null
@@ -26589,7 +26846,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 83,
+    "display_order": 90,
     "itype_property_category": null,
     "name": "Whiteboard",
     "target_audience": null
@@ -26600,7 +26857,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 84,
+    "display_order": 91,
     "itype_property_category": null,
     "name": "LibTACO Accessories",
     "target_audience": null
@@ -26611,7 +26868,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 85,
+    "display_order": 92,
     "itype_property_category": null,
     "name": "The Factory Kit Accessories",
     "target_audience": null
@@ -26622,7 +26879,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 86,
+    "display_order": 93,
     "itype_property_category": null,
     "name": "The Factory: Cameras",
     "target_audience": null
@@ -26633,7 +26890,29 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 87,
+    "display_order": 94,
+    "itype_property_category": null,
+    "name": "The Factory: 4-Day Checkout",
+    "target_audience": null
+  },
+  "model": "base.itypepropertymyuser",
+  "pk": 113
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 95,
+    "itype_property_category": null,
+    "name": "The Factory: 4-Day Accessories",
+    "target_audience": null
+  },
+  "model": "base.itypepropertymyuser",
+  "pk": 114
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 96,
     "itype_property_category": null,
     "name": "Game Consoles",
     "target_audience": null
@@ -26644,7 +26923,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 88,
+    "display_order": 97,
     "itype_property_category": null,
     "name": "Game Accessories",
     "target_audience": null
@@ -26655,7 +26934,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 89,
+    "display_order": 98,
     "itype_property_category": null,
     "name": "Computer Games",
     "target_audience": null
@@ -26666,7 +26945,7 @@
 {
   "fields": {
     "physical_format": null,
-    "display_order": 90,
+    "display_order": 99,
     "itype_property_category": null,
     "name": "Law Technology",
     "target_audience": null
@@ -27068,7 +27347,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 39
+  "pk": 38
 },
 {
   "fields": {
@@ -27079,7 +27358,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 40
+  "pk": 39
 },
 {
   "fields": {
@@ -27090,7 +27369,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 41
+  "pk": 40
 },
 {
   "fields": {
@@ -27101,7 +27380,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 42
+  "pk": 41
 },
 {
   "fields": {
@@ -27112,7 +27391,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 43
+  "pk": 42
 },
 {
   "fields": {
@@ -27123,7 +27402,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 44
+  "pk": 43
 },
 {
   "fields": {
@@ -27134,7 +27413,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 49
+  "pk": 44
 },
 {
   "fields": {
@@ -27145,7 +27424,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 50
+  "pk": 45
 },
 {
   "fields": {
@@ -27156,7 +27435,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 51
+  "pk": 46
 },
 {
   "fields": {
@@ -27167,7 +27446,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 52
+  "pk": 47
 },
 {
   "fields": {
@@ -27178,7 +27457,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 53
+  "pk": 48
 },
 {
   "fields": {
@@ -27189,7 +27468,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 54
+  "pk": 49
 },
 {
   "fields": {
@@ -27200,7 +27479,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 55
+  "pk": 50
 },
 {
   "fields": {
@@ -27211,7 +27490,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 56
+  "pk": 51
 },
 {
   "fields": {
@@ -27222,7 +27501,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 57
+  "pk": 52
 },
 {
   "fields": {
@@ -27233,7 +27512,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 59
+  "pk": 53
 },
 {
   "fields": {
@@ -27244,7 +27523,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 60
+  "pk": 54
 },
 {
   "fields": {
@@ -27255,7 +27534,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 61
+  "pk": 55
 },
 {
   "fields": {
@@ -27266,7 +27545,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 62
+  "pk": 56
 },
 {
   "fields": {
@@ -27277,7 +27556,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 63
+  "pk": 57
 },
 {
   "fields": {
@@ -27288,7 +27567,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 64
+  "pk": 59
 },
 {
   "fields": {
@@ -27299,7 +27578,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 65
+  "pk": 60
 },
 {
   "fields": {
@@ -27310,7 +27589,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 66
+  "pk": 61
 },
 {
   "fields": {
@@ -27321,7 +27600,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 67
+  "pk": 62
 },
 {
   "fields": {
@@ -27332,7 +27611,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 68
+  "pk": 63
 },
 {
   "fields": {
@@ -27343,7 +27622,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 69
+  "pk": 64
 },
 {
   "fields": {
@@ -27354,7 +27633,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 70
+  "pk": 65
 },
 {
   "fields": {
@@ -27365,7 +27644,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 71
+  "pk": 66
 },
 {
   "fields": {
@@ -27376,7 +27655,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 72
+  "pk": 67
 },
 {
   "fields": {
@@ -27387,7 +27666,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 75
+  "pk": 68
 },
 {
   "fields": {
@@ -27398,7 +27677,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 76
+  "pk": 69
 },
 {
   "fields": {
@@ -27409,7 +27688,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 77
+  "pk": 70
 },
 {
   "fields": {
@@ -27420,7 +27699,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 78
+  "pk": 71
 },
 {
   "fields": {
@@ -27431,7 +27710,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 80
+  "pk": 72
 },
 {
   "fields": {
@@ -27442,7 +27721,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 81
+  "pk": 73
 },
 {
   "fields": {
@@ -27453,7 +27732,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 82
+  "pk": 74
 },
 {
   "fields": {
@@ -27464,7 +27743,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 83
+  "pk": 75
 },
 {
   "fields": {
@@ -27475,7 +27754,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 85
+  "pk": 76
 },
 {
   "fields": {
@@ -27486,7 +27765,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 90
+  "pk": 77
 },
 {
   "fields": {
@@ -27497,7 +27776,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 91
+  "pk": 78
 },
 {
   "fields": {
@@ -27508,7 +27787,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 92
+  "pk": 80
 },
 {
   "fields": {
@@ -27519,7 +27798,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 93
+  "pk": 81
 },
 {
   "fields": {
@@ -27530,7 +27809,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 94
+  "pk": 82
 },
 {
   "fields": {
@@ -27541,7 +27820,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 95
+  "pk": 83
 },
 {
   "fields": {
@@ -27552,7 +27831,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 96
+  "pk": 85
 },
 {
   "fields": {
@@ -27563,7 +27842,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 103
+  "pk": 90
 },
 {
   "fields": {
@@ -27574,7 +27853,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 104
+  "pk": 91
 },
 {
   "fields": {
@@ -27585,7 +27864,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 105
+  "pk": 92
 },
 {
   "fields": {
@@ -27596,7 +27875,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 106
+  "pk": 93
 },
 {
   "fields": {
@@ -27607,7 +27886,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 110
+  "pk": 94
 },
 {
   "fields": {
@@ -27618,7 +27897,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 111
+  "pk": 95
 },
 {
   "fields": {
@@ -27629,7 +27908,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 112
+  "pk": 96
 },
 {
   "fields": {
@@ -27640,7 +27919,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 125
+  "pk": 103
 },
 {
   "fields": {
@@ -27651,7 +27930,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 126
+  "pk": 104
 },
 {
   "fields": {
@@ -27662,7 +27941,7 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
-  "pk": 127
+  "pk": 105
 },
 {
   "fields": {
@@ -27673,28 +27952,127 @@
     "target_audience": null
   },
   "model": "base.itypepropertycategorymyuser",
+  "pk": 106
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 91,
+    "itype_property_category": null,
+    "name": null,
+    "target_audience": null
+  },
+  "model": "base.itypepropertycategorymyuser",
+  "pk": 110
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 92,
+    "itype_property_category": null,
+    "name": null,
+    "target_audience": null
+  },
+  "model": "base.itypepropertycategorymyuser",
+  "pk": 111
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 93,
+    "itype_property_category": null,
+    "name": null,
+    "target_audience": null
+  },
+  "model": "base.itypepropertycategorymyuser",
+  "pk": 112
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 94,
+    "itype_property_category": null,
+    "name": null,
+    "target_audience": null
+  },
+  "model": "base.itypepropertycategorymyuser",
+  "pk": 113
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 95,
+    "itype_property_category": null,
+    "name": null,
+    "target_audience": null
+  },
+  "model": "base.itypepropertycategorymyuser",
+  "pk": 114
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 96,
+    "itype_property_category": null,
+    "name": null,
+    "target_audience": null
+  },
+  "model": "base.itypepropertycategorymyuser",
+  "pk": 125
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 97,
+    "itype_property_category": null,
+    "name": null,
+    "target_audience": null
+  },
+  "model": "base.itypepropertycategorymyuser",
+  "pk": 126
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 98,
+    "itype_property_category": null,
+    "name": null,
+    "target_audience": null
+  },
+  "model": "base.itypepropertycategorymyuser",
+  "pk": 127
+},
+{
+  "fields": {
+    "physical_format": null,
+    "display_order": 99,
+    "itype_property_category": null,
+    "name": null,
+    "target_audience": null
+  },
+  "model": "base.itypepropertycategorymyuser",
   "pk": 200
 },
 {
   "fields": {
-    "email_source": "example@example.edu",
+    "email_source": "circ@unt.edu",
     "code_num": 1,
-    "address_longitude": "-97.1331",
-    "email_reply_to": "example@example.edu",
-    "address": "University of North Texas$LIBRARIES$12345 Example Lane$Denton, TX 76203",
-    "address_latitude": "33.2148"
+    "address_longitude": "-94.5978767",
+    "email_reply_to": "circ@unt.edu",
+    "address": "University of North Texas$LIBRARIES$1155 Union Circle #305190$Denton, TX 76203",
+    "address_latitude": "39.1023995"
   },
   "model": "base.branch",
   "pk": 1
 },
 {
   "fields": {
-    "email_source": "media@example.edu",
+    "email_source": "Media.Library@unt.edu",
     "code_num": 2,
-    "address_longitude": "-97.1331",
-    "email_reply_to": "media@example.edu",
-    "address": "University of North Texas$LIBRARIES$12345 Example Lane$Denton, TX 76203",
-    "address_latitude": "33.2148"
+    "address_longitude": "-83.9426698",
+    "email_reply_to": "Media.Library@unt.edu",
+    "address": "University of North Texas$LIBRARIES$1155 Union Circle #305190$Denton, TX 76203",
+    "address_latitude": "34.0820025"
   },
   "model": "base.branch",
   "pk": 2
@@ -35869,7 +36247,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "zzzzz",
     "is_requestable": true,
     "parent_location": null,
@@ -35880,7 +36258,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w",
     "is_requestable": true,
     "parent_location": null,
@@ -35891,7 +36269,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w3mfa",
     "is_requestable": true,
     "parent_location": null,
@@ -35902,7 +36280,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mrx",
     "is_requestable": true,
     "parent_location": null,
@@ -35913,7 +36291,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "mail",
     "is_requestable": true,
     "parent_location": null,
@@ -35924,7 +36302,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4spe",
     "is_requestable": true,
     "parent_location": null,
@@ -35935,7 +36313,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "s1fdc",
     "is_requestable": true,
     "parent_location": null,
@@ -35946,7 +36324,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "xspe",
     "is_requestable": true,
     "parent_location": null,
@@ -35957,7 +36335,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "wlmic",
     "is_requestable": true,
     "parent_location": null,
@@ -35968,7 +36346,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "s1ndc",
     "is_requestable": true,
     "parent_location": null,
@@ -35979,7 +36357,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w1fdc",
     "is_requestable": true,
     "parent_location": null,
@@ -35990,7 +36368,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "szzrf",
     "is_requestable": true,
     "parent_location": null,
@@ -36001,7 +36379,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w1ndc",
     "is_requestable": true,
     "parent_location": null,
@@ -36012,7 +36390,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4srf",
     "is_requestable": true,
     "parent_location": null,
@@ -36023,7 +36401,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "xprsv",
     "is_requestable": true,
     "parent_location": null,
@@ -36034,7 +36412,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w1grs",
     "is_requestable": true,
     "parent_location": null,
@@ -36045,7 +36423,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "wgrc",
     "is_requestable": true,
     "parent_location": null,
@@ -36056,7 +36434,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "test",
     "is_requestable": true,
     "parent_location": null,
@@ -36067,18 +36445,7 @@
 },
 {
   "fields": {
-    "is_public": true,
-    "code": "whdrn",
-    "is_requestable": true,
-    "parent_location": null,
-    "branch": 1
-  },
-  "model": "base.location",
-  "pk": 19
-},
-{
-  "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "xts",
     "is_requestable": true,
     "parent_location": null,
@@ -36089,7 +36456,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "lawcl",
     "is_requestable": true,
     "parent_location": null,
@@ -36100,7 +36467,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "frsco",
     "is_requestable": true,
     "parent_location": null,
@@ -36111,7 +36478,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w3per",
     "is_requestable": true,
     "parent_location": null,
@@ -36122,7 +36489,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "xmic",
     "is_requestable": true,
     "parent_location": null,
@@ -36133,7 +36500,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "kmatt",
     "is_requestable": true,
     "parent_location": null,
@@ -36144,7 +36511,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "kpeb",
     "is_requestable": true,
     "parent_location": null,
@@ -36155,7 +36522,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "kpacs",
     "is_requestable": true,
     "parent_location": null,
@@ -36166,7 +36533,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mft",
     "is_requestable": true,
     "parent_location": null,
@@ -36177,7 +36544,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4m",
     "is_requestable": true,
     "parent_location": null,
@@ -36188,7 +36555,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mrf",
     "is_requestable": true,
     "parent_location": null,
@@ -36199,7 +36566,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mav",
     "is_requestable": true,
     "parent_location": null,
@@ -36210,7 +36577,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4moc",
     "is_requestable": true,
     "parent_location": null,
@@ -36221,7 +36588,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mai",
     "is_requestable": true,
     "parent_location": null,
@@ -36232,7 +36599,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mov",
     "is_requestable": true,
     "parent_location": null,
@@ -36243,18 +36610,7 @@
 },
 {
   "fields": {
-    "is_public": true,
-    "code": "w3fdc",
-    "is_requestable": true,
-    "parent_location": null,
-    "branch": 1
-  },
-  "model": "base.location",
-  "pk": 35
-},
-{
-  "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mau",
     "is_requestable": true,
     "parent_location": null,
@@ -36265,7 +36621,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mts",
     "is_requestable": true,
     "parent_location": null,
@@ -36276,7 +36632,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "ill",
     "is_requestable": true,
     "parent_location": null,
@@ -36287,7 +36643,18 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
+    "code": "rst",
+    "is_requestable": true,
+    "parent_location": null,
+    "branch": 1
+  },
+  "model": "base.location",
+  "pk": 39
+},
+{
+  "fields": {
+    "is_public": false,
     "code": "d",
     "is_requestable": true,
     "parent_location": null,
@@ -36298,7 +36665,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "dcare",
     "is_requestable": true,
     "parent_location": null,
@@ -36309,7 +36676,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "szzov",
     "is_requestable": true,
     "parent_location": null,
@@ -36320,7 +36687,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "czmrs",
     "is_requestable": true,
     "parent_location": null,
@@ -36331,7 +36698,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "tamc",
     "is_requestable": true,
     "parent_location": null,
@@ -36342,7 +36709,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "dfic",
     "is_requestable": true,
     "parent_location": null,
@@ -36353,7 +36720,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w3cmc",
     "is_requestable": true,
     "parent_location": null,
@@ -36364,7 +36731,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "czm",
     "is_requestable": true,
     "parent_location": null,
@@ -36375,7 +36742,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "czmrf",
     "is_requestable": true,
     "parent_location": null,
@@ -36386,7 +36753,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "x",
     "is_requestable": true,
     "parent_location": null,
@@ -36397,7 +36764,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mrs",
     "is_requestable": true,
     "parent_location": null,
@@ -36408,7 +36775,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "dmed",
     "is_requestable": true,
     "parent_location": null,
@@ -36419,7 +36786,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "gwww",
     "is_requestable": true,
     "parent_location": null,
@@ -36430,7 +36797,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mrb",
     "is_requestable": true,
     "parent_location": null,
@@ -36441,7 +36808,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w2lan",
     "is_requestable": true,
     "parent_location": null,
@@ -36452,7 +36819,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "lwww",
     "is_requestable": true,
     "parent_location": null,
@@ -36463,7 +36830,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "szzrs",
     "is_requestable": true,
     "parent_location": null,
@@ -36474,7 +36841,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "dref",
     "is_requestable": true,
     "parent_location": null,
@@ -36485,7 +36852,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "s",
     "is_requestable": true,
     "parent_location": null,
@@ -36496,7 +36863,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "mwww",
     "is_requestable": true,
     "parent_location": null,
@@ -36507,7 +36874,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "xdoc",
     "is_requestable": true,
     "parent_location": null,
@@ -36518,7 +36885,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "libr",
     "is_requestable": true,
     "parent_location": null,
@@ -36529,7 +36896,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "dresv",
     "is_requestable": true,
     "parent_location": null,
@@ -36540,7 +36907,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "twu",
     "is_requestable": true,
     "parent_location": null,
@@ -36551,7 +36918,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "xmed",
     "is_requestable": true,
     "parent_location": null,
@@ -36562,18 +36929,7 @@
 },
 {
   "fields": {
-    "is_public": true,
-    "code": "wll",
-    "is_requestable": true,
-    "parent_location": null,
-    "branch": 1
-  },
-  "model": "base.location",
-  "pk": 79
-},
-{
-  "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "spec",
     "is_requestable": true,
     "parent_location": null,
@@ -36584,7 +36940,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mbg",
     "is_requestable": true,
     "parent_location": null,
@@ -36595,7 +36951,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "rfbks",
     "is_requestable": true,
     "parent_location": null,
@@ -36606,18 +36962,7 @@
 },
 {
   "fields": {
-    "is_public": true,
-    "code": "rnbks",
-    "is_requestable": true,
-    "parent_location": null,
-    "branch": 1
-  },
-  "model": "base.location",
-  "pk": 83
-},
-{
-  "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "xmus",
     "is_requestable": true,
     "parent_location": null,
@@ -36628,7 +36973,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "unt",
     "is_requestable": true,
     "parent_location": null,
@@ -36639,7 +36984,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w1ia",
     "is_requestable": true,
     "parent_location": null,
@@ -36650,18 +36995,7 @@
 },
 {
   "fields": {
-    "is_public": true,
-    "code": "w1arc",
-    "is_requestable": true,
-    "parent_location": null,
-    "branch": 1
-  },
-  "model": "base.location",
-  "pk": 96
-},
-{
-  "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mla",
     "is_requestable": true,
     "parent_location": null,
@@ -36672,7 +37006,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mfb",
     "is_requestable": true,
     "parent_location": null,
@@ -36683,7 +37017,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4fil",
     "is_requestable": true,
     "parent_location": null,
@@ -36694,7 +37028,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mwr",
     "is_requestable": true,
     "parent_location": null,
@@ -36705,7 +37039,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mwf",
     "is_requestable": true,
     "parent_location": null,
@@ -36716,7 +37050,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4422",
     "is_requestable": true,
     "parent_location": null,
@@ -36727,7 +37061,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "txsha",
     "is_requestable": true,
     "parent_location": null,
@@ -36738,7 +37072,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "hscfw",
     "is_requestable": true,
     "parent_location": null,
@@ -36749,7 +37083,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w2awt",
     "is_requestable": true,
     "parent_location": null,
@@ -36760,7 +37094,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w1gwt",
     "is_requestable": true,
     "parent_location": null,
@@ -36771,7 +37105,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4438",
     "is_requestable": true,
     "parent_location": null,
@@ -36782,7 +37116,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "djuv",
     "is_requestable": true,
     "parent_location": null,
@@ -36793,7 +37127,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w3",
     "is_requestable": true,
     "parent_location": null,
@@ -36804,7 +37138,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "r",
     "is_requestable": true,
     "parent_location": null,
@@ -36815,7 +37149,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w3lab",
     "is_requestable": true,
     "parent_location": null,
@@ -36826,7 +37160,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "rzzrf",
     "is_requestable": true,
     "parent_location": null,
@@ -36837,7 +37171,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "rzzrs",
     "is_requestable": true,
     "parent_location": null,
@@ -36848,7 +37182,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "rzzpb",
     "is_requestable": true,
     "parent_location": null,
@@ -36859,7 +37193,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mr1",
     "is_requestable": true,
     "parent_location": null,
@@ -36870,7 +37204,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "sfin",
     "is_requestable": true,
     "parent_location": null,
@@ -36881,7 +37215,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "sdtx",
     "is_requestable": true,
     "parent_location": null,
@@ -36892,7 +37226,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "czwww",
     "is_requestable": true,
     "parent_location": null,
@@ -36903,7 +37237,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mr2",
     "is_requestable": true,
     "parent_location": null,
@@ -36914,7 +37248,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w4mr3",
     "is_requestable": true,
     "parent_location": null,
@@ -36925,7 +37259,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w433a",
     "is_requestable": true,
     "parent_location": null,
@@ -36936,7 +37270,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w1mls",
     "is_requestable": true,
     "parent_location": null,
@@ -36947,7 +37281,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w3big",
     "is_requestable": true,
     "parent_location": null,
@@ -36958,7 +37292,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w1ind",
     "is_requestable": true,
     "parent_location": null,
@@ -36969,7 +37303,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "sd",
     "is_requestable": true,
     "parent_location": null,
@@ -36980,7 +37314,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "sdai",
     "is_requestable": true,
     "parent_location": null,
@@ -36991,7 +37325,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "sdbi",
     "is_requestable": true,
     "parent_location": null,
@@ -37002,7 +37336,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "sdcd",
     "is_requestable": true,
     "parent_location": null,
@@ -37013,7 +37347,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "sdmc",
     "is_requestable": true,
     "parent_location": null,
@@ -37024,7 +37358,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "sdmp",
     "is_requestable": true,
     "parent_location": null,
@@ -37035,7 +37369,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "sdnb",
     "is_requestable": true,
     "parent_location": null,
@@ -37046,7 +37380,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "sdov",
     "is_requestable": true,
     "parent_location": null,
@@ -37057,7 +37391,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "sdus",
     "is_requestable": true,
     "parent_location": null,
@@ -37068,7 +37402,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "sdvf",
     "is_requestable": true,
     "parent_location": null,
@@ -37079,7 +37413,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "sdzmr",
     "is_requestable": true,
     "parent_location": null,
@@ -37090,7 +37424,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "spe",
     "is_requestable": true,
     "parent_location": null,
@@ -37101,7 +37435,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "swr",
     "is_requestable": true,
     "parent_location": null,
@@ -37112,7 +37446,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "szmp",
     "is_requestable": true,
     "parent_location": null,
@@ -37123,7 +37457,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w3juv",
     "is_requestable": true,
     "parent_location": null,
@@ -37134,7 +37468,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w3cbg",
     "is_requestable": true,
     "parent_location": null,
@@ -37145,7 +37479,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w3kit",
     "is_requestable": true,
     "parent_location": null,
@@ -37156,7 +37490,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "law",
     "is_requestable": true,
     "parent_location": null,
@@ -37167,7 +37501,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "lawrf",
     "is_requestable": true,
     "parent_location": null,
@@ -37178,7 +37512,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "lawrs",
     "is_requestable": true,
     "parent_location": null,
@@ -37189,7 +37523,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "lawww",
     "is_requestable": true,
     "parent_location": null,
@@ -37200,18 +37534,7 @@
 },
 {
   "fields": {
-    "is_public": true,
-    "code": "w3arf",
-    "is_requestable": true,
-    "parent_location": null,
-    "branch": 1
-  },
-  "model": "base.location",
-  "pk": 191
-},
-{
-  "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "w1mak",
     "is_requestable": true,
     "parent_location": null,
@@ -37222,7 +37545,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "szzsd",
     "is_requestable": true,
     "parent_location": null,
@@ -37233,7 +37556,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "lawh",
     "is_requestable": true,
     "parent_location": null,
@@ -37244,7 +37567,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "code": "lawtx",
     "is_requestable": true,
     "parent_location": null,
@@ -37252,6 +37575,83 @@
   },
   "model": "base.location",
   "pk": 195
+},
+{
+  "fields": {
+    "is_public": false,
+    "code": "sdtov",
+    "is_requestable": true,
+    "parent_location": null,
+    "branch": 1
+  },
+  "model": "base.location",
+  "pk": 196
+},
+{
+  "fields": {
+    "is_public": false,
+    "code": "w1upr",
+    "is_requestable": true,
+    "parent_location": null,
+    "branch": 1
+  },
+  "model": "base.location",
+  "pk": 197
+},
+{
+  "fields": {
+    "is_public": false,
+    "code": "w3grn",
+    "is_requestable": true,
+    "parent_location": null,
+    "branch": 1
+  },
+  "model": "base.location",
+  "pk": 198
+},
+{
+  "fields": {
+    "is_public": false,
+    "code": "w1mdc",
+    "is_requestable": true,
+    "parent_location": null,
+    "branch": 1
+  },
+  "model": "base.location",
+  "pk": 199
+},
+{
+  "fields": {
+    "is_public": false,
+    "code": "wex",
+    "is_requestable": true,
+    "parent_location": null,
+    "branch": 1
+  },
+  "model": "base.location",
+  "pk": 200
+},
+{
+  "fields": {
+    "is_public": false,
+    "code": "rmak",
+    "is_requestable": true,
+    "parent_location": null,
+    "branch": 1
+  },
+  "model": "base.location",
+  "pk": 201
+},
+{
+  "fields": {
+    "is_public": false,
+    "code": "smls",
+    "is_requestable": true,
+    "parent_location": null,
+    "branch": 1
+  },
+  "model": "base.location",
+  "pk": 202
 },
 {
   "fields": {
@@ -37336,7 +37736,7 @@
 {
   "fields": {
     "iii_language": 1,
-    "name": "Willis 1FL Display"
+    "name": "Willis 1FL Featured Books"
   },
   "model": "base.locationname",
   "pk": 11
@@ -37400,14 +37800,6 @@
 {
   "fields": {
     "iii_language": 1,
-    "name": "WITHDRAWN"
-  },
-  "model": "base.locationname",
-  "pk": 19
-},
-{
-  "fields": {
-    "iii_language": 1,
     "name": "Collection Management Work Room"
   },
   "model": "base.locationname",
@@ -37440,7 +37832,7 @@
 {
   "fields": {
     "iii_language": 1,
-    "name": "Remote Storage Microforms (click to request)"
+    "name": "Remote Storage Microforms"
   },
   "model": "base.locationname",
   "pk": 24
@@ -37528,15 +37920,7 @@
 {
   "fields": {
     "iii_language": 1,
-    "name": "Willis 3rd Floor Display"
-  },
-  "model": "base.locationname",
-  "pk": 35
-},
-{
-  "fields": {
-    "iii_language": 1,
-    "name": "Willis 4FL Music Audio Coll "
+    "name": "Willis 4FL Music Audio Coll"
   },
   "model": "base.locationname",
   "pk": 36
@@ -37556,6 +37940,14 @@
   },
   "model": "base.locationname",
   "pk": 38
+},
+{
+  "fields": {
+    "iii_language": 1,
+    "name": "Discovery Park Library Storage"
+  },
+  "model": "base.locationname",
+  "pk": 39
 },
 {
   "fields": {
@@ -37632,7 +38024,7 @@
 {
   "fields": {
     "iii_language": 1,
-    "name": "Remote Storage (click to request)"
+    "name": "Remote Storage"
   },
   "model": "base.locationname",
   "pk": 54
@@ -37720,7 +38112,7 @@
 {
   "fields": {
     "iii_language": 1,
-    "name": "Government Documents Remote Storage (click to request)"
+    "name": "Government Documents Remote Storage"
   },
   "model": "base.locationname",
   "pk": 73
@@ -37752,18 +38144,10 @@
 {
   "fields": {
     "iii_language": 1,
-    "name": "Media Remote Storage (click to request)"
+    "name": "Media Remote Storage"
   },
   "model": "base.locationname",
   "pk": 78
-},
-{
-  "fields": {
-    "iii_language": 1,
-    "name": "Willis Lower Level"
-  },
-  "model": "base.locationname",
-  "pk": 79
 },
 {
   "fields": {
@@ -37784,7 +38168,7 @@
 {
   "fields": {
     "iii_language": 1,
-    "name": "Discovery Park Library Featured Books (click to request)"
+    "name": "Discovery Park Library Featured Books"
   },
   "model": "base.locationname",
   "pk": 82
@@ -37792,15 +38176,7 @@
 {
   "fields": {
     "iii_language": 1,
-    "name": "Discovery Park Library New Books (click to request)"
-  },
-  "model": "base.locationname",
-  "pk": 83
-},
-{
-  "fields": {
-    "iii_language": 1,
-    "name": "Remote Storage (click to request)"
+    "name": "Music Remote Storage"
   },
   "model": "base.locationname",
   "pk": 93
@@ -37820,14 +38196,6 @@
   },
   "model": "base.locationname",
   "pk": 95
-},
-{
-  "fields": {
-    "iii_language": 1,
-    "name": "Willis 1FL Graphic Novels"
-  },
-  "model": "base.locationname",
-  "pk": 96
 },
 {
   "fields": {
@@ -37936,7 +38304,7 @@
 {
   "fields": {
     "iii_language": 1,
-    "name": "Discovery Park Library (click to request)"
+    "name": "Discovery Park Library"
   },
   "model": "base.locationname",
   "pk": 130
@@ -37968,7 +38336,7 @@
 {
   "fields": {
     "iii_language": 1,
-    "name": "Discovery Park Library (click to request)"
+    "name": "Discovery Park Library"
   },
   "model": "base.locationname",
   "pk": 136
@@ -38224,14 +38592,6 @@
 {
   "fields": {
     "iii_language": 1,
-    "name": "Willis 3FL Art Reference"
-  },
-  "model": "base.locationname",
-  "pk": 191
-},
-{
-  "fields": {
-    "iii_language": 1,
     "name": "Willis 1FL The Factory"
   },
   "model": "base.locationname",
@@ -38263,7 +38623,63 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "iii_language": 1,
+    "name": "Eagle Commons Library TX Docs Oversize"
+  },
+  "model": "base.locationname",
+  "pk": 196
+},
+{
+  "fields": {
+    "iii_language": 1,
+    "name": "Willis 1FL UNT Press"
+  },
+  "model": "base.locationname",
+  "pk": 197
+},
+{
+  "fields": {
+    "iii_language": 1,
+    "name": "Willis 3FL Graphic Novels"
+  },
+  "model": "base.locationname",
+  "pk": 198
+},
+{
+  "fields": {
+    "iii_language": 1,
+    "name": "Willis 1FL Monthly Display"
+  },
+  "model": "base.locationname",
+  "pk": 199
+},
+{
+  "fields": {
+    "iii_language": 1,
+    "name": "Willis Exhibition"
+  },
+  "model": "base.locationname",
+  "pk": 200
+},
+{
+  "fields": {
+    "iii_language": 1,
+    "name": "Discovery Park The Factory"
+  },
+  "model": "base.locationname",
+  "pk": 201
+},
+{
+  "fields": {
+    "iii_language": 1,
+    "name": "Eagle Commons Library Best Sellers"
+  },
+  "model": "base.locationname",
+  "pk": 202
+},
+{
+  "fields": {
+    "is_public": false,
     "parent_location": null,
     "branch": 2,
     "name": "Chilton Media Library"
@@ -38273,7 +38689,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 2,
     "name": "Chilton Media Reference"
@@ -38283,7 +38699,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 2,
     "name": "Chilton Media Reserves"
@@ -38293,7 +38709,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 2,
     "name": "MEDIA ONLINE RESOURCES"
@@ -38303,7 +38719,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Dallas Campus Library"
@@ -38313,7 +38729,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Dallas Campus Career Development"
@@ -38323,7 +38739,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Dallas Campus Fiction"
@@ -38333,7 +38749,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Dallas Campus Juvenile Collection"
@@ -38343,7 +38759,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Dallas Campus Media"
@@ -38353,7 +38769,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Dallas Campus Reference"
@@ -38363,7 +38779,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Dallas Campus Reserves"
@@ -38373,7 +38789,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Frisco Campus"
@@ -38383,7 +38799,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "GOVT ONLINE RESOURCES"
@@ -38393,7 +38809,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "UNTHSC FORT WORTH"
@@ -38403,7 +38819,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 2,
     "name": "Willis 1FL ILL"
@@ -38413,7 +38829,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Matthews Hall 307 Lab"
@@ -38423,7 +38839,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Chilton Hall 255 Lab"
@@ -38433,7 +38849,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Physical Education Building 220 Lab"
@@ -38443,7 +38859,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Law Library"
@@ -38453,7 +38869,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": null,
     "name": "Law Library Clinic"
@@ -38463,7 +38879,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": null,
     "name": "Law Library Historical"
@@ -38473,7 +38889,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Law Library Reference"
@@ -38483,7 +38899,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Law Library Reserves"
@@ -38493,7 +38909,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": null,
     "name": "Law Library Texas Materials"
@@ -38503,7 +38919,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Law Library Online Resources"
@@ -38513,7 +38929,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Library"
@@ -38523,7 +38939,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "UNT ONLINE RESOURCES"
@@ -38533,7 +38949,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": null,
     "name": "Faculty Mail Delivery (Do Not Delete)"
@@ -38543,7 +38959,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "MUSIC ONLINE RESOURCES"
@@ -38553,47 +38969,57 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
-    "name": "Discovery Park Library (click to request)"
+    "name": "Discovery Park Library"
   },
   "model": "base.locationmyuser",
   "pk": "r"
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
-    "name": "Discovery Park Library Featured Books (click to request)"
+    "name": "Discovery Park Library Featured Books"
   },
   "model": "base.locationmyuser",
   "pk": "rfbks"
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
-    "name": "Discovery Park Library New Books (click to request)"
+    "name": "Discovery Park The Factory"
   },
   "model": "base.locationmyuser",
-  "pk": "rnbks"
+  "pk": "rmak"
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
-    "name": "Discovery Park Library (click to request)"
+    "name": "Discovery Park Library Storage"
+  },
+  "model": "base.locationmyuser",
+  "pk": "rst"
+},
+{
+  "fields": {
+    "is_public": false,
+    "parent_location": null,
+    "branch": 1,
+    "name": "Discovery Park Library"
   },
   "model": "base.locationmyuser",
   "pk": "rzzpb"
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Discovery Park Library Reference"
@@ -38603,7 +39029,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Discovery Park Library Reserves"
@@ -38613,7 +39039,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library"
@@ -38623,7 +39049,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library 1FL Display"
@@ -38633,7 +39059,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library 1FL New Books"
@@ -38643,7 +39069,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Government Documents"
@@ -38653,7 +39079,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Docs A&I"
@@ -38663,7 +39089,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Docs Bib Center"
@@ -38673,7 +39099,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Docs CD"
@@ -38683,7 +39109,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Docs Microform"
@@ -38693,7 +39119,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Docs Maps"
@@ -38703,7 +39129,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Docs-NOBARCODE"
@@ -38713,7 +39139,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Docs Oversize"
@@ -38723,7 +39149,17 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
+    "parent_location": null,
+    "branch": 1,
+    "name": "Eagle Commons Library TX Docs Oversize"
+  },
+  "model": "base.locationmyuser",
+  "pk": "sdtov"
+},
+{
+  "fields": {
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library TX Documents"
@@ -38733,7 +39169,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library US Documents"
@@ -38743,7 +39179,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Docs Vertical File"
@@ -38753,7 +39189,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Map Reserves"
@@ -38763,7 +39199,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Funding Information Network"
@@ -38773,7 +39209,17 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
+    "parent_location": null,
+    "branch": 1,
+    "name": "Eagle Commons Library Best Sellers"
+  },
+  "model": "base.locationmyuser",
+  "pk": "smls"
+},
+{
+  "fields": {
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Periodicals"
@@ -38783,7 +39229,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "SPECIAL ID"
@@ -38793,7 +39239,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Workroom"
@@ -38803,7 +39249,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Maps"
@@ -38813,7 +39259,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Oversize Books"
@@ -38823,7 +39269,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Reference"
@@ -38833,7 +39279,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Reserves"
@@ -38843,7 +39289,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Eagle Commons Library Service Desk"
@@ -38853,7 +39299,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Texas A and M Commerce"
@@ -38863,7 +39309,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": null,
     "name": "Testing-do not use"
@@ -38873,7 +39319,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Texas Women's University"
@@ -38883,7 +39329,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "TexShare"
@@ -38893,7 +39339,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Univ of North Texas"
@@ -38903,7 +39349,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis Library"
@@ -38913,27 +39359,17 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
-    "name": "Willis 1FL Graphic Novels"
-  },
-  "model": "base.locationmyuser",
-  "pk": "w1arc"
-},
-{
-  "fields": {
-    "is_public": true,
-    "parent_location": null,
-    "branch": 1,
-    "name": "Willis 1FL Display"
+    "name": "Willis 1FL Featured Books"
   },
   "model": "base.locationmyuser",
   "pk": "w1fdc"
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 1FL Library Services Desk"
@@ -38943,7 +39379,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "WILLIS 1FL GEN REF WKTOOL"
@@ -38953,7 +39389,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 1FL Forum"
@@ -38963,7 +39399,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 1FL Information Desk"
@@ -38973,7 +39409,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 1FL The Factory"
@@ -38983,7 +39419,17 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
+    "parent_location": null,
+    "branch": 1,
+    "name": "Willis 1FL Monthly Display"
+  },
+  "model": "base.locationmyuser",
+  "pk": "w1mdc"
+},
+{
+  "fields": {
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 1FL Best Sellers"
@@ -38993,7 +39439,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 1FL New Books"
@@ -39003,7 +39449,17 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
+    "parent_location": null,
+    "branch": 1,
+    "name": "Willis 1FL UNT Press"
+  },
+  "model": "base.locationmyuser",
+  "pk": "w1upr"
+},
+{
+  "fields": {
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "WILLIS 2FL ADM OFF WKTOOL"
@@ -39013,7 +39469,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "WILLIS 2FL Lib_TACO"
@@ -39023,7 +39479,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis Library-3rd Floor"
@@ -39033,17 +39489,7 @@
 },
 {
   "fields": {
-    "is_public": true,
-    "parent_location": null,
-    "branch": 1,
-    "name": "Willis 3FL Art Reference"
-  },
-  "model": "base.locationmyuser",
-  "pk": "w3arf"
-},
-{
-  "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 3FL Oversize"
@@ -39053,7 +39499,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 3FL CMC & Juvenile Oversized Books"
@@ -39063,7 +39509,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 3FL Curriculum Materials Collection"
@@ -39073,17 +39519,17 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
-    "name": "Willis 3rd Floor Display"
+    "name": "Willis 3FL Graphic Novels"
   },
   "model": "base.locationmyuser",
-  "pk": "w3fdc"
+  "pk": "w3grn"
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 3FL Juvenile Collection"
@@ -39093,7 +39539,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 3FL CMC Kits"
@@ -39103,7 +39549,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "WILLIS 3FL DIGITAL LAB"
@@ -39113,7 +39559,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": null,
     "name": "Willis 3FL Microform Indices and Finding Aids"
@@ -39123,7 +39569,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": null,
     "name": "Willis 3FL Periodicals"
@@ -39133,7 +39579,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music Room 433A"
@@ -39143,7 +39589,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music Room 422"
@@ -39153,7 +39599,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": null,
     "name": "Willis 4FL Music Room 438"
@@ -39163,7 +39609,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music Microfilm"
@@ -39173,7 +39619,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music Library"
@@ -39183,7 +39629,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music A&I"
@@ -39193,17 +39639,17 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
-    "name": "Willis 4FL Music Audio Coll "
+    "name": "Willis 4FL Music Audio Coll"
   },
   "model": "base.locationmyuser",
   "pk": "w4mau"
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music Audio Oversize"
@@ -39213,7 +39659,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Bragg Coll"
@@ -39223,7 +39669,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music Fake Book"
@@ -39233,7 +39679,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": null,
     "name": "Willis 4FL Music Featured Items"
@@ -39243,7 +39689,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music Limited Access"
@@ -39253,7 +39699,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music Ozier Coll"
@@ -39263,7 +39709,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music Oversize"
@@ -39273,7 +39719,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music Sandborn Miniature"
@@ -39283,7 +39729,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music Sandborn Oversize"
@@ -39293,7 +39739,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music Sandborn Reading Room"
@@ -39303,7 +39749,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music Sandborn Coll"
@@ -39313,7 +39759,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music Reference"
@@ -39323,7 +39769,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Music Reserves"
@@ -39333,7 +39779,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": null,
     "name": "Willis 4FL Music Sandborn Brittle"
@@ -39343,7 +39789,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": null,
     "name": "Willis 4FL Music Technical Services"
@@ -39353,7 +39799,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "WILLIS 4FL Music WFAA Coll"
@@ -39363,7 +39809,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "WILLIS 4FL MUSIC WORKROOM"
@@ -39373,7 +39819,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Special Collections"
@@ -39383,7 +39829,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis 4FL Special Collections Reference"
@@ -39393,7 +39839,17 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
+    "parent_location": null,
+    "branch": 1,
+    "name": "Willis Exhibition"
+  },
+  "model": "base.locationmyuser",
+  "pk": "wex"
+},
+{
+  "fields": {
+    "is_public": false,
     "parent_location": null,
     "branch": null,
     "name": "Willis Graduate Reserve"
@@ -39403,27 +39859,7 @@
 },
 {
   "fields": {
-    "is_public": true,
-    "parent_location": null,
-    "branch": 1,
-    "name": "WITHDRAWN"
-  },
-  "model": "base.locationmyuser",
-  "pk": "whdrn"
-},
-{
-  "fields": {
-    "is_public": true,
-    "parent_location": null,
-    "branch": 1,
-    "name": "Willis Lower Level"
-  },
-  "model": "base.locationmyuser",
-  "pk": "wll"
-},
-{
-  "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Willis LL Microforms"
@@ -39433,57 +39869,57 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
-    "name": "Remote Storage (click to request)"
+    "name": "Remote Storage"
   },
   "model": "base.locationmyuser",
   "pk": "x"
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
-    "name": "Government Documents Remote Storage (click to request)"
+    "name": "Government Documents Remote Storage"
   },
   "model": "base.locationmyuser",
   "pk": "xdoc"
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 2,
-    "name": "Media Remote Storage (click to request)"
+    "name": "Media Remote Storage"
   },
   "model": "base.locationmyuser",
   "pk": "xmed"
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": null,
-    "name": "Remote Storage Microforms (click to request)"
+    "name": "Remote Storage Microforms"
   },
   "model": "base.locationmyuser",
   "pk": "xmic"
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
-    "name": "Remote Storage (click to request)"
+    "name": "Music Remote Storage"
   },
   "model": "base.locationmyuser",
   "pk": "xmus"
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "PRESERVATION LAB"
@@ -39493,7 +39929,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Special Collections Remote Storage"
@@ -39503,7 +39939,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Collection Management Work Room"
@@ -39513,7 +39949,7 @@
 },
 {
   "fields": {
-    "is_public": true,
+    "is_public": false,
     "parent_location": null,
     "branch": 1,
     "name": "Error"
