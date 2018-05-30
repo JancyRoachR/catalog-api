@@ -25,11 +25,11 @@
 },
 {
   "fields": {
-    "previous_last_updated_gmt": "2018-05-01T20:11:00Z",
+    "previous_last_updated_gmt": "2018-05-24T17:24:00Z",
     "campus_code": "",
     "deletion_date_gmt": null,
-    "record_last_updated_gmt": "2018-05-02T16:26:51Z",
-    "num_revisions": 285,
+    "record_last_updated_gmt": "2018-05-24T17:27:57Z",
+    "num_revisions": 289,
     "record_type": "b",
     "record_num": 4371446,
     "creation_date_gmt": "2013-06-14T13:23:44Z"
@@ -39,11 +39,25 @@
 },
 {
   "fields": {
-    "previous_last_updated_gmt": "2018-05-01T11:00:40Z",
+    "previous_last_updated_gmt": "2018-05-24T18:16:54Z",
     "campus_code": "",
     "deletion_date_gmt": null,
-    "record_last_updated_gmt": "2018-05-04T14:53:22Z",
-    "num_revisions": 741,
+    "record_last_updated_gmt": "2018-05-24T19:04:01Z",
+    "num_revisions": 3,
+    "record_type": "b",
+    "record_num": 6029459,
+    "creation_date_gmt": "2018-05-24T17:58:48Z"
+  },
+  "model": "base.recordmetadata",
+  "pk": 420912824467
+},
+{
+  "fields": {
+    "previous_last_updated_gmt": "2018-05-16T15:25:00Z",
+    "campus_code": "",
+    "deletion_date_gmt": null,
+    "record_last_updated_gmt": "2018-05-24T16:09:11Z",
+    "num_revisions": 746,
     "record_type": "i",
     "record_num": 4264281,
     "creation_date_gmt": "2013-06-14T13:24:26Z"
@@ -67,11 +81,11 @@
 },
 {
   "fields": {
-    "previous_last_updated_gmt": "2018-04-26T18:11:17Z",
+    "previous_last_updated_gmt": "2018-05-11T13:24:18Z",
     "campus_code": "",
     "deletion_date_gmt": null,
-    "record_last_updated_gmt": "2018-04-26T18:15:43Z",
-    "num_revisions": 91,
+    "record_last_updated_gmt": "2018-05-16T15:25:35Z",
+    "num_revisions": 93,
     "record_type": "i",
     "record_num": 4278313,
     "creation_date_gmt": "2013-07-29T17:06:48Z"
@@ -95,11 +109,11 @@
 },
 {
   "fields": {
-    "previous_last_updated_gmt": "2018-04-25T21:12:48Z",
+    "previous_last_updated_gmt": "2018-05-11T14:18:27Z",
     "campus_code": "",
     "deletion_date_gmt": null,
-    "record_last_updated_gmt": "2018-04-27T21:28:08Z",
-    "num_revisions": 51,
+    "record_last_updated_gmt": "2018-05-11T14:20:47Z",
+    "num_revisions": 55,
     "record_type": "i",
     "record_num": 4278316,
     "creation_date_gmt": "2013-07-29T17:07:22Z"
@@ -109,11 +123,53 @@
 },
 {
   "fields": {
-    "previous_last_updated_gmt": "2018-04-30T20:06:20Z",
+    "previous_last_updated_gmt": "2018-05-24T18:22:16Z",
     "campus_code": "",
     "deletion_date_gmt": null,
-    "record_last_updated_gmt": "2018-05-04T14:53:23Z",
-    "num_revisions": 4184,
+    "record_last_updated_gmt": "2018-05-24T18:22:39Z",
+    "num_revisions": 5,
+    "record_type": "i",
+    "record_num": 5942962,
+    "creation_date_gmt": "2018-05-24T17:58:48Z"
+  },
+  "model": "base.recordmetadata",
+  "pk": 450977509042
+},
+{
+  "fields": {
+    "previous_last_updated_gmt": "2018-05-24T18:16:00Z",
+    "campus_code": "",
+    "deletion_date_gmt": null,
+    "record_last_updated_gmt": "2018-05-24T18:17:11Z",
+    "num_revisions": 3,
+    "record_type": "i",
+    "record_num": 5942970,
+    "creation_date_gmt": "2018-05-24T18:11:45Z"
+  },
+  "model": "base.recordmetadata",
+  "pk": 450977509050
+},
+{
+  "fields": {
+    "previous_last_updated_gmt": "2018-05-24T19:04:00Z",
+    "campus_code": "",
+    "deletion_date_gmt": null,
+    "record_last_updated_gmt": "2018-05-24T19:05:07Z",
+    "num_revisions": 3,
+    "record_type": "i",
+    "record_num": 5942982,
+    "creation_date_gmt": "2018-05-24T19:04:01Z"
+  },
+  "model": "base.recordmetadata",
+  "pk": 450977509062
+},
+{
+  "fields": {
+    "previous_last_updated_gmt": "2018-05-24T18:22:39Z",
+    "campus_code": "",
+    "deletion_date_gmt": null,
+    "record_last_updated_gmt": "2018-05-24T19:04:50.834Z",
+    "num_revisions": 4222,
     "record_type": "p",
     "record_num": 416497,
     "creation_date_gmt": "2011-01-21T14:54:00Z"
@@ -149,7 +205,7 @@
     "bcode3": "-",
     "bcode2": "a",
     "skip_num": 0,
-    "index_change_count": 905,
+    "index_change_count": 914,
     "is_right_result_exact": false,
     "is_on_course_reserve": false,
     "marc_type_code": " ",
@@ -157,6 +213,26 @@
   },
   "model": "base.bibrecord",
   "pk": 420911166454
+},
+{
+  "fields": {
+    "is_suppressed": true,
+    "record_metadata": 420912824467,
+    "language": "eng",
+    "country": "us",
+    "bcode1": "0",
+    "allocation_rule_code": null,
+    "bcode3": "n",
+    "bcode2": "a",
+    "skip_num": 0,
+    "index_change_count": 25,
+    "is_right_result_exact": false,
+    "is_on_course_reserve": false,
+    "marc_type_code": " ",
+    "cataloging_date_gmt": "2018-05-24T05:00:00Z"
+  },
+  "model": "base.bibrecord",
+  "pk": 420912824467
 },
 {
   "fields": {
@@ -266,7 +342,117 @@
     "p20": " "
   },
   "model": "base.controlfield",
-  "pk": 8700924
+  "pk": 8708113
+},
+{
+  "fields": {
+    "p23": " ",
+    "p22": " ",
+    "p03": "b",
+    "p02": "|",
+    "p01": "d",
+    "p00": "s",
+    "p07": "n",
+    "p06": "e",
+    "p05": "m",
+    "p04": "s",
+    "p38": " ",
+    "varfield_type_code": "y",
+    "p08": "n",
+    "p29": " ",
+    "p09": "|",
+    "p41": " ",
+    "p40": " ",
+    "remainder": null,
+    "p43": " ",
+    "p28": " ",
+    "occ_num": 2,
+    "p39": " ",
+    "control_num": 7,
+    "p32": " ",
+    "p10": "|",
+    "p11": "|",
+    "p12": "|",
+    "p13": "e",
+    "p14": " ",
+    "p15": " ",
+    "p16": " ",
+    "p17": " ",
+    "p18": " ",
+    "p19": " ",
+    "p30": " ",
+    "p31": " ",
+    "p36": " ",
+    "p37": " ",
+    "p34": " ",
+    "p35": " ",
+    "p25": " ",
+    "p24": " ",
+    "p33": " ",
+    "p27": " ",
+    "record": 420912824467,
+    "p26": " ",
+    "p42": " ",
+    "p21": " ",
+    "p20": " "
+  },
+  "model": "base.controlfield",
+  "pk": 8739597
+},
+{
+  "fields": {
+    "p23": " ",
+    "p22": " ",
+    "p03": "5",
+    "p02": "0",
+    "p01": "8",
+    "p00": "1",
+    "p07": "2",
+    "p06": "s",
+    "p05": "4",
+    "p04": "2",
+    "p38": " ",
+    "varfield_type_code": "y",
+    "p08": "0",
+    "p29": "0",
+    "p09": "1",
+    "p41": "a",
+    "p40": "n",
+    "remainder": "a ",
+    "p43": " ",
+    "p28": " ",
+    "occ_num": 3,
+    "p39": "d",
+    "control_num": 8,
+    "p32": " ",
+    "p10": "8",
+    "p11": " ",
+    "p12": " ",
+    "p13": " ",
+    "p14": " ",
+    "p15": " ",
+    "p16": " ",
+    "p17": " ",
+    "p18": " ",
+    "p19": " ",
+    "p30": "0",
+    "p31": "0",
+    "p36": "n",
+    "p37": "g",
+    "p34": " ",
+    "p35": "e",
+    "p25": " ",
+    "p24": " ",
+    "p33": "0",
+    "p27": " ",
+    "record": 420912824467,
+    "p26": " ",
+    "p42": "m",
+    "p21": " ",
+    "p20": " "
+  },
+  "model": "base.controlfield",
+  "pk": 8739598
 },
 {
   "fields": {
@@ -282,6 +468,21 @@
   },
   "model": "base.leaderfield",
   "pk": 3295384
+},
+{
+  "fields": {
+    "multipart_level_code": " ",
+    "record_status_code": "n",
+    "bib_level_code": "m",
+    "descriptive_cat_form_code": "a",
+    "control_type_code": " ",
+    "record": 420912824467,
+    "encoding_level_code": " ",
+    "record_type_code": "a",
+    "char_encoding_scheme_code": " "
+  },
+  "model": "base.leaderfield",
+  "pk": 4677537
 },
 {
   "fields": {
@@ -685,6 +886,409 @@
   },
   "model": "base.varfield",
   "pk": 105731846
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "090",
+    "field_content": "|aTEST|aITEM CALLNUMBER|b12345",
+    "record": 450975830361,
+    "occ_num": 0,
+    "varfield_type_code": "c"
+  },
+  "model": "base.varfield",
+  "pk": 106075993
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "field_content": "9999999999",
+    "record": 450977509042,
+    "occ_num": 0,
+    "varfield_type_code": "b"
+  },
+  "model": "base.varfield",
+  "pk": 106077004
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "001",
+    "field_content": "9999999998",
+    "record": 420912824467,
+    "occ_num": 0,
+    "varfield_type_code": "o"
+  },
+  "model": "base.varfield",
+  "pk": 106077006
+},
+{
+  "fields": {
+    "marc_ind2": "0",
+    "marc_ind1": "0",
+    "marc_tag": "245",
+    "field_content": "|aCatalog API test record 1|h[Medium] :|bSubtitle /|cby William Shakespeare.",
+    "record": 420912824467,
+    "occ_num": 0,
+    "varfield_type_code": "t"
+  },
+  "model": "base.varfield",
+  "pk": 106077051
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "050",
+    "field_content": "|aAB 1234568 Test",
+    "record": 420912824467,
+    "occ_num": 0,
+    "varfield_type_code": "c"
+  },
+  "model": "base.varfield",
+  "pk": 106077052
+},
+{
+  "fields": {
+    "marc_ind2": "0",
+    "marc_ind1": " ",
+    "marc_tag": "264",
+    "field_content": "|aplaceholder|btoken abcdef123456|c1881-1882",
+    "record": 420912824467,
+    "occ_num": 0,
+    "varfield_type_code": "p"
+  },
+  "model": "base.varfield",
+  "pk": 106077053
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": "1",
+    "marc_tag": "100",
+    "field_content": "|aShakespeare, William,|d1564-1616",
+    "record": 420912824467,
+    "occ_num": 0,
+    "varfield_type_code": "a"
+  },
+  "model": "base.varfield",
+  "pk": 106077054
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "500",
+    "field_content": "|aThis is a test record for testing record exports from Sierra into the Catalog API. Please ignore, and do not make any changes.",
+    "record": 420912824467,
+    "occ_num": 0,
+    "varfield_type_code": "n"
+  },
+  "model": "base.varfield",
+  "pk": 106077055
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "500",
+    "field_content": "|aAn preost wes on leoden, La\u021damon was ihoten \\ He wes Leovena\u00f0es sone -- li\u00f0e him be Drihten.",
+    "record": 420912824467,
+    "occ_num": 1,
+    "varfield_type_code": "n"
+  },
+  "model": "base.varfield",
+  "pk": 106077056
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": "0",
+    "marc_tag": "505",
+    "field_content": "|aFormatted contents note.",
+    "record": 420912824467,
+    "occ_num": 2,
+    "varfield_type_code": "n"
+  },
+  "model": "base.varfield",
+  "pk": 106077057
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": "1",
+    "marc_tag": "521",
+    "field_content": "|a12.",
+    "record": 420912824467,
+    "occ_num": 3,
+    "varfield_type_code": "n"
+  },
+  "model": "base.varfield",
+  "pk": 106077058
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "590",
+    "field_content": "|aThis is a 590 field that doesn't have a Media tabletop game token in it.",
+    "record": 420912824467,
+    "occ_num": 4,
+    "varfield_type_code": "n"
+  },
+  "model": "base.varfield",
+  "pk": 106077059
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "590",
+    "field_content": "|aa5t9;a14t16;A17T100",
+    "record": 420912824467,
+    "occ_num": 5,
+    "varfield_type_code": "n"
+  },
+  "model": "base.varfield",
+  "pk": 106077060
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "590",
+    "field_content": "|ad30t59",
+    "record": 420912824467,
+    "occ_num": 6,
+    "varfield_type_code": "n"
+  },
+  "model": "base.varfield",
+  "pk": 106077061
+},
+{
+  "fields": {
+    "marc_ind2": "7",
+    "marc_ind1": "1",
+    "marc_tag": "785",
+    "field_content": "|tTest Placeholder Title",
+    "record": 420912824467,
+    "occ_num": 0,
+    "varfield_type_code": "z"
+  },
+  "model": "base.varfield",
+  "pk": 106077062
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "866",
+    "field_content": "|aTesting LIB HAS, line 1.",
+    "record": 420912824467,
+    "occ_num": 0,
+    "varfield_type_code": "h"
+  },
+  "model": "base.varfield",
+  "pk": 106077063
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "866",
+    "field_content": "|aTesting LIB HAS, line 2.",
+    "record": 420912824467,
+    "occ_num": 1,
+    "varfield_type_code": "h"
+  },
+  "model": "base.varfield",
+  "pk": 106077064
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "003",
+    "field_content": "TEST",
+    "record": 420912824467,
+    "occ_num": 0,
+    "varfield_type_code": "y"
+  },
+  "model": "base.varfield",
+  "pk": 106077065
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "005",
+    "field_content": "20180524",
+    "record": 420912824467,
+    "occ_num": 1,
+    "varfield_type_code": "y"
+  },
+  "model": "base.varfield",
+  "pk": 106077066
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "856",
+    "field_content": "|zView image of this item (side view).|uhttps://www.library.unt.edu/media/covers/ADB/adb36.jpg\" target=\"_blank",
+    "record": 420912824467,
+    "occ_num": 2,
+    "varfield_type_code": "y"
+  },
+  "model": "base.varfield",
+  "pk": 106077067
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "856",
+    "field_content": "|zView image of this item (front view).|uhttps://www.example.com\" target=\"_blank",
+    "record": 420912824467,
+    "occ_num": 3,
+    "varfield_type_code": "y"
+  },
+  "model": "base.varfield",
+  "pk": 106077068
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "999",
+    "field_content": "|acapi-testrec",
+    "record": 420912824467,
+    "occ_num": 4,
+    "varfield_type_code": "y"
+  },
+  "model": "base.varfield",
+  "pk": 106077069
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "field_content": "Vol 26",
+    "record": 450977509042,
+    "occ_num": 0,
+    "varfield_type_code": "v"
+  },
+  "model": "base.varfield",
+  "pk": 106077177
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "090",
+    "field_content": "|aTest Call|aNumber|b12345",
+    "record": 450977509042,
+    "occ_num": 0,
+    "varfield_type_code": "c"
+  },
+  "model": "base.varfield",
+  "pk": 106077178
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "field_content": "This is a public item note. Hello!",
+    "record": 450977509042,
+    "occ_num": 0,
+    "varfield_type_code": "p"
+  },
+  "model": "base.varfield",
+  "pk": 106077179
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "field_content": "Another test N note, just for kicks.",
+    "record": 450977509042,
+    "occ_num": 0,
+    "varfield_type_code": "n"
+  },
+  "model": "base.varfield",
+  "pk": 106077180
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "field_content": "This is a test N note.",
+    "record": 450977509042,
+    "occ_num": 1,
+    "varfield_type_code": "n"
+  },
+  "model": "base.varfield",
+  "pk": 106077181
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "field_content": "This is a test message.",
+    "record": 450977509042,
+    "occ_num": 0,
+    "varfield_type_code": "m"
+  },
+  "model": "base.varfield",
+  "pk": 106077182
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "field_content": "This is a test X note.",
+    "record": 450977509042,
+    "occ_num": 0,
+    "varfield_type_code": "x"
+  },
+  "model": "base.varfield",
+  "pk": 106077183
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "field_content": "9999999998",
+    "record": 450977509050,
+    "occ_num": 0,
+    "varfield_type_code": "b"
+  },
+  "model": "base.varfield",
+  "pk": 106077425
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "field_content": "9999999997",
+    "record": 450977509062,
+    "occ_num": 0,
+    "varfield_type_code": "b"
+  },
+  "model": "base.varfield",
+  "pk": 106077689
 },
 {
   "fields": {
@@ -1153,6 +1757,471 @@
 },
 {
   "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "090",
+    "display_order": 2,
+    "tag": "b",
+    "content": "12345",
+    "record": 450975830361,
+    "field_type_code": "c",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106075993
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "display_order": 0,
+    "tag": null,
+    "content": "9999999999",
+    "record": 450977509042,
+    "field_type_code": "b",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077004
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "001",
+    "display_order": 0,
+    "tag": null,
+    "content": "9999999998",
+    "record": 420912824467,
+    "field_type_code": "o",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077006
+},
+{
+  "fields": {
+    "marc_ind2": "0",
+    "marc_ind1": "0",
+    "marc_tag": "245",
+    "display_order": 3,
+    "tag": "c",
+    "content": "by William Shakespeare.",
+    "record": 420912824467,
+    "field_type_code": "t",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077051
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "050",
+    "display_order": 0,
+    "tag": "a",
+    "content": "AB 1234568 Test",
+    "record": 420912824467,
+    "field_type_code": "c",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077052
+},
+{
+  "fields": {
+    "marc_ind2": "0",
+    "marc_ind1": " ",
+    "marc_tag": "264",
+    "display_order": 2,
+    "tag": "c",
+    "content": "1881-1882",
+    "record": 420912824467,
+    "field_type_code": "p",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077053
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": "1",
+    "marc_tag": "100",
+    "display_order": 1,
+    "tag": "d",
+    "content": "1564-1616",
+    "record": 420912824467,
+    "field_type_code": "a",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077054
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "500",
+    "display_order": 0,
+    "tag": "a",
+    "content": "This is a test record for testing record exports from Sierra into the Catalog API. Please ignore, and do not make any changes.",
+    "record": 420912824467,
+    "field_type_code": "n",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077055
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "500",
+    "display_order": 0,
+    "tag": "a",
+    "content": "An preost wes on leoden, La\u021damon was ihoten \\ He wes Leovena\u00f0es sone -- li\u00f0e him be Drihten.",
+    "record": 420912824467,
+    "field_type_code": "n",
+    "occ_num": 1
+  },
+  "model": "base.subfield",
+  "pk": 106077056
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": "0",
+    "marc_tag": "505",
+    "display_order": 0,
+    "tag": "a",
+    "content": "Formatted contents note.",
+    "record": 420912824467,
+    "field_type_code": "n",
+    "occ_num": 2
+  },
+  "model": "base.subfield",
+  "pk": 106077057
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": "1",
+    "marc_tag": "521",
+    "display_order": 0,
+    "tag": "a",
+    "content": "12.",
+    "record": 420912824467,
+    "field_type_code": "n",
+    "occ_num": 3
+  },
+  "model": "base.subfield",
+  "pk": 106077058
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "590",
+    "display_order": 0,
+    "tag": "a",
+    "content": "This is a 590 field that doesn't have a Media tabletop game token in it.",
+    "record": 420912824467,
+    "field_type_code": "n",
+    "occ_num": 4
+  },
+  "model": "base.subfield",
+  "pk": 106077059
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "590",
+    "display_order": 0,
+    "tag": "a",
+    "content": "a5t9;a14t16;A17T100",
+    "record": 420912824467,
+    "field_type_code": "n",
+    "occ_num": 5
+  },
+  "model": "base.subfield",
+  "pk": 106077060
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "590",
+    "display_order": 0,
+    "tag": "a",
+    "content": "d30t59",
+    "record": 420912824467,
+    "field_type_code": "n",
+    "occ_num": 6
+  },
+  "model": "base.subfield",
+  "pk": 106077061
+},
+{
+  "fields": {
+    "marc_ind2": "7",
+    "marc_ind1": "1",
+    "marc_tag": "785",
+    "display_order": 0,
+    "tag": "t",
+    "content": "Test Placeholder Title",
+    "record": 420912824467,
+    "field_type_code": "z",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077062
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "866",
+    "display_order": 0,
+    "tag": "a",
+    "content": "Testing LIB HAS, line 1.",
+    "record": 420912824467,
+    "field_type_code": "h",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077063
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "866",
+    "display_order": 0,
+    "tag": "a",
+    "content": "Testing LIB HAS, line 2.",
+    "record": 420912824467,
+    "field_type_code": "h",
+    "occ_num": 1
+  },
+  "model": "base.subfield",
+  "pk": 106077064
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "003",
+    "display_order": 0,
+    "tag": null,
+    "content": "TEST",
+    "record": 420912824467,
+    "field_type_code": "y",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077065
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "005",
+    "display_order": 0,
+    "tag": null,
+    "content": "20180524",
+    "record": 420912824467,
+    "field_type_code": "y",
+    "occ_num": 1
+  },
+  "model": "base.subfield",
+  "pk": 106077066
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "856",
+    "display_order": 1,
+    "tag": "u",
+    "content": "https://www.library.unt.edu/media/covers/ADB/adb36.jpg\" target=\"_blank",
+    "record": 420912824467,
+    "field_type_code": "y",
+    "occ_num": 2
+  },
+  "model": "base.subfield",
+  "pk": 106077067
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "856",
+    "display_order": 1,
+    "tag": "u",
+    "content": "https://www.example.com\" target=\"_blank",
+    "record": 420912824467,
+    "field_type_code": "y",
+    "occ_num": 3
+  },
+  "model": "base.subfield",
+  "pk": 106077068
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "999",
+    "display_order": 0,
+    "tag": "a",
+    "content": "capi-testrec",
+    "record": 420912824467,
+    "field_type_code": "y",
+    "occ_num": 4
+  },
+  "model": "base.subfield",
+  "pk": 106077069
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "display_order": 0,
+    "tag": null,
+    "content": "Vol 26",
+    "record": 450977509042,
+    "field_type_code": "v",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077177
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": "090",
+    "display_order": 2,
+    "tag": "b",
+    "content": "12345",
+    "record": 450977509042,
+    "field_type_code": "c",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077178
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "display_order": 0,
+    "tag": null,
+    "content": "This is a public item note. Hello!",
+    "record": 450977509042,
+    "field_type_code": "p",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077179
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "display_order": 0,
+    "tag": null,
+    "content": "Another test N note, just for kicks.",
+    "record": 450977509042,
+    "field_type_code": "n",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077180
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "display_order": 0,
+    "tag": null,
+    "content": "This is a test N note.",
+    "record": 450977509042,
+    "field_type_code": "n",
+    "occ_num": 1
+  },
+  "model": "base.subfield",
+  "pk": 106077181
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "display_order": 0,
+    "tag": null,
+    "content": "This is a test message.",
+    "record": 450977509042,
+    "field_type_code": "m",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077182
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "display_order": 0,
+    "tag": null,
+    "content": "This is a test X note.",
+    "record": 450977509042,
+    "field_type_code": "x",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077183
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "display_order": 0,
+    "tag": null,
+    "content": "9999999998",
+    "record": 450977509050,
+    "field_type_code": "b",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077425
+},
+{
+  "fields": {
+    "marc_ind2": " ",
+    "marc_ind1": " ",
+    "marc_tag": null,
+    "display_order": 0,
+    "tag": null,
+    "content": "9999999997",
+    "record": 450977509062,
+    "field_type_code": "b",
+    "occ_num": 0
+  },
+  "model": "base.subfield",
+  "pk": 106077689
+},
+{
+  "fields": {
     "itype_property_category": null,
     "target_audience": null,
     "code_num": 1,
@@ -1162,6 +2231,18 @@
   },
   "model": "base.itypeproperty",
   "pk": 34
+},
+{
+  "fields": {
+    "itype_property_category": null,
+    "target_audience": null,
+    "code_num": 75,
+    "collection": null,
+    "physical_format": null,
+    "display_order": 71
+  },
+  "model": "base.itypeproperty",
+  "pk": 48
 },
 {
   "fields": {
@@ -1197,6 +2278,17 @@
   },
   "model": "base.location",
   "pk": 6
+},
+{
+  "fields": {
+    "is_public": false,
+    "code": "test",
+    "is_requestable": true,
+    "parent_location": null,
+    "branch": null
+  },
+  "model": "base.location",
+  "pk": 18
 },
 {
   "fields": {
@@ -1252,11 +2344,27 @@
 },
 {
   "fields": {
+    "display_order": 14,
+    "code": "w"
+  },
+  "model": "base.itemstatusproperty",
+  "pk": 21
+},
+{
+  "fields": {
     "display_order": 15,
     "code": "y"
   },
   "model": "base.itemstatusproperty",
   "pk": 30
+},
+{
+  "fields": {
+    "code_num": 0,
+    "location_code": ""
+  },
+  "model": "base.statisticgroup",
+  "pk": 1
 },
 {
   "fields": {
@@ -1301,22 +2409,22 @@
     "ptype": 31,
     "registration_count": 0,
     "attendance_total": 0,
-    "checkout_total": 205,
+    "checkout_total": 209,
     "mblock": "-",
     "itemd_count": 0,
     "highest_level_overdue_num": 1,
     "renewal_total": 9,
     "birth_date_gmt": null,
-    "activity_gmt": "2018-05-04T14:53:22Z",
+    "activity_gmt": "2018-05-24T19:04:48Z",
     "debit_amt": "0.000000",
     "registration_total": 0,
     "waitlist_count": 0,
     "block_until_date_gmt": null,
-    "expiration_date_gmt": "2018-05-15T09:00:00Z",
+    "expiration_date_gmt": "2018-08-28T09:00:00Z",
     "patron_message_code": " ",
     "notification_medium": "-",
     "home_library_code": "unt",
-    "checkout_count": 0,
+    "checkout_count": 1,
     "pcode3": 1,
     "pcode2": "-",
     "pcode1": "c",
@@ -1334,17 +2442,17 @@
 },
 {
   "fields": {
-    "year_to_date_checkout_total": 44,
+    "year_to_date_checkout_total": 45,
     "itype": 113,
     "record_metadata": 450975830361,
-    "last_checkout_gmt": "2018-04-30T20:06:10Z",
+    "last_checkout_gmt": "2018-05-11T13:21:08Z",
     "item_status": "-",
     "item_message_code": "-",
     "is_suppressed": false,
     "is_bib_hold": false,
     "holdings_code": "6",
-    "last_checkin_gmt": "2018-05-04T14:53:22Z",
-    "checkout_total": 109,
+    "last_checkin_gmt": "2018-05-16T15:25:19Z",
+    "checkout_total": 110,
     "inventory_gmt": null,
     "checkout_statistic_group": 310,
     "renewal_total": 5,
@@ -1414,17 +2522,17 @@
 },
 {
   "fields": {
-    "year_to_date_checkout_total": 2,
+    "year_to_date_checkout_total": 3,
     "itype": 76,
     "record_metadata": 450975844393,
-    "last_checkout_gmt": "2018-04-25T20:24:21Z",
+    "last_checkout_gmt": "2018-05-11T13:24:16Z",
     "item_status": "-",
     "item_message_code": "-",
     "is_suppressed": false,
     "is_bib_hold": false,
     "holdings_code": "6",
-    "last_checkin_gmt": "2018-04-26T12:37:18Z",
-    "checkout_total": 8,
+    "last_checkin_gmt": "2018-05-16T15:25:35Z",
+    "checkout_total": 9,
     "inventory_gmt": null,
     "checkout_statistic_group": 310,
     "renewal_total": 1,
@@ -1534,6 +2642,126 @@
 },
 {
   "fields": {
+    "year_to_date_checkout_total": 1,
+    "itype": 1,
+    "record_metadata": 450977509042,
+    "last_checkout_gmt": "2018-05-24T18:22:11Z",
+    "item_status": "-",
+    "item_message_code": "-",
+    "is_suppressed": true,
+    "is_bib_hold": false,
+    "holdings_code": "6",
+    "last_checkin_gmt": "2018-05-24T18:22:39Z",
+    "checkout_total": 1,
+    "inventory_gmt": null,
+    "checkout_statistic_group": 310,
+    "renewal_total": 0,
+    "save_itype": null,
+    "icode1": 20,
+    "icode2": "s",
+    "last_patron_record": 481036753649,
+    "copy_num": 1,
+    "copy_use_count": 0,
+    "is_inherit_loc": false,
+    "price": "5.000000",
+    "last_year_to_date_checkout_total": 0,
+    "save_location": null,
+    "use3_count": 10,
+    "distance_learning_status": 0,
+    "internal_use_count": 0,
+    "virtual_item_central_code_num": 0,
+    "opac_message_code": "-",
+    "location": "test",
+    "save_checkout_total": null,
+    "checkin_statistics_group": 310,
+    "virtual_type_code": null,
+    "old_location": null
+  },
+  "model": "base.itemrecord",
+  "pk": 450977509042
+},
+{
+  "fields": {
+    "year_to_date_checkout_total": 0,
+    "itype": 75,
+    "record_metadata": 450977509050,
+    "last_checkout_gmt": null,
+    "item_status": "w",
+    "item_message_code": "-",
+    "is_suppressed": true,
+    "is_bib_hold": false,
+    "holdings_code": "6",
+    "last_checkin_gmt": null,
+    "checkout_total": 0,
+    "inventory_gmt": null,
+    "checkout_statistic_group": 0,
+    "renewal_total": 0,
+    "save_itype": null,
+    "icode1": 0,
+    "icode2": "s",
+    "last_patron_record": null,
+    "copy_num": 2,
+    "copy_use_count": 0,
+    "is_inherit_loc": false,
+    "price": "10.000000",
+    "last_year_to_date_checkout_total": 0,
+    "save_location": null,
+    "use3_count": 0,
+    "distance_learning_status": 0,
+    "internal_use_count": 0,
+    "virtual_item_central_code_num": 0,
+    "opac_message_code": "a",
+    "location": "test",
+    "save_checkout_total": null,
+    "checkin_statistics_group": 0,
+    "virtual_type_code": null,
+    "old_location": null
+  },
+  "model": "base.itemrecord",
+  "pk": 450977509050
+},
+{
+  "fields": {
+    "year_to_date_checkout_total": 1,
+    "itype": 1,
+    "record_metadata": 450977509062,
+    "last_checkout_gmt": null,
+    "item_status": "-",
+    "item_message_code": "-",
+    "is_suppressed": true,
+    "is_bib_hold": false,
+    "holdings_code": "6",
+    "last_checkin_gmt": null,
+    "checkout_total": 1,
+    "inventory_gmt": null,
+    "checkout_statistic_group": 310,
+    "renewal_total": 0,
+    "save_itype": null,
+    "icode1": 0,
+    "icode2": "s",
+    "last_patron_record": null,
+    "copy_num": 3,
+    "copy_use_count": 0,
+    "is_inherit_loc": false,
+    "price": "0.000000",
+    "last_year_to_date_checkout_total": 0,
+    "save_location": null,
+    "use3_count": 0,
+    "distance_learning_status": 0,
+    "internal_use_count": 0,
+    "virtual_item_central_code_num": 0,
+    "opac_message_code": "-",
+    "location": "test",
+    "save_checkout_total": null,
+    "checkin_statistics_group": 0,
+    "virtual_type_code": null,
+    "old_location": null
+  },
+  "model": "base.itemrecord",
+  "pk": 450977509062
+},
+{
+  "fields": {
     "bibs_display_order": 0,
     "bib_record": 420911166454,
     "item_record": 450975830361,
@@ -1584,6 +2812,53 @@
 },
 {
   "fields": {
+    "bibs_display_order": 0,
+    "bib_record": 420912824467,
+    "item_record": 450977509042,
+    "items_display_order": 0
+  },
+  "model": "base.bibrecorditemrecordlink",
+  "pk": 4764495
+},
+{
+  "fields": {
+    "bibs_display_order": 0,
+    "bib_record": 420912824467,
+    "item_record": 450977509050,
+    "items_display_order": null
+  },
+  "model": "base.bibrecorditemrecordlink",
+  "pk": 4764503
+},
+{
+  "fields": {
+    "bibs_display_order": 0,
+    "bib_record": 420912824467,
+    "item_record": 450977509062,
+    "items_display_order": null
+  },
+  "model": "base.bibrecorditemrecordlink",
+  "pk": 4764515
+},
+{
+  "fields": {
+    "ptype": 31,
+    "overdue_count": 0,
+    "recall_gmt": null,
+    "due_gmt": "2018-08-08T09:00:00Z",
+    "items_display_order": null,
+    "checkout_gmt": "2018-05-24T19:04:48Z",
+    "patron_record": 481036753649,
+    "renewal_count": 0,
+    "loanrule_code_num": 22,
+    "item_record": 450977509062,
+    "overdue_gmt": null
+  },
+  "model": "base.checkout",
+  "pk": 1646950
+},
+{
+  "fields": {
     "display_order": 0,
     "bib_record": 420911166454,
     "copies": 6,
@@ -1597,20 +2872,30 @@
     "display_order": 1,
     "bib_record": 420911166454,
     "copies": 1,
-    "location": "czm"
+    "location": "rmak"
   },
   "model": "base.bibrecordlocation",
-  "pk": 4102911
+  "pk": 4127532
 },
 {
   "fields": {
     "display_order": 2,
     "bib_record": 420911166454,
     "copies": 1,
-    "location": "rmak"
+    "location": "czm"
   },
   "model": "base.bibrecordlocation",
-  "pk": 4102912
+  "pk": 4127533
+},
+{
+  "fields": {
+    "display_order": 0,
+    "bib_record": 420912824467,
+    "copies": 0,
+    "location": "test"
+  },
+  "model": "base.bibrecordlocation",
+  "pk": 4127539
 },
 {
   "fields": {
@@ -1644,5 +2929,19 @@
   },
   "model": "base.bibrecordproperty",
   "pk": 2208585
+},
+{
+  "fields": {
+    "best_title": "Catalog API test record 1 [Medium] : Subtitle",
+    "bib_level": "0",
+    "material": "a",
+    "best_author": "Shakespeare, William, 1564-1616",
+    "best_title_norm": "catalog api test record 1 medium subtitle",
+    "publish_year": 1882,
+    "best_author_norm": "shakespeare william 1564 1616",
+    "bib_record": 420912824467
+  },
+  "model": "base.bibrecordproperty",
+  "pk": 3866598
 }
 ]

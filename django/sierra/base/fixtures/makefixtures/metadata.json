@@ -157,5 +157,14 @@
   },
   {
     "model": "base.NotificationMediumPropertyMyuser"
+  },
+  {
+    "model": "base.UserDefinedCategory"
+  },
+  {
+    "model": "base.UserDefinedBcode3Myuser"
+  },
+  {
+    "model": "base.UserDefinedIcode2Myuser"
   }
 ]

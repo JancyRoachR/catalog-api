@@ -41556,5 +41556,168 @@
   },
   "model": "base.notificationmediumpropertymyuser",
   "pk": "z"
+},
+{
+  "fields": {
+    "code": "bcode3"
+  },
+  "model": "base.userdefinedcategory",
+  "pk": 1
+},
+{
+  "fields": {
+    "code": "icode2"
+  },
+  "model": "base.userdefinedcategory",
+  "pk": 2
+},
+{
+  "fields": {
+    "code": "pcode1"
+  },
+  "model": "base.userdefinedcategory",
+  "pk": 3
+},
+{
+  "fields": {
+    "code": "ccode1"
+  },
+  "model": "base.userdefinedcategory",
+  "pk": 4
+},
+{
+  "fields": {
+    "code": "ccode2"
+  },
+  "model": "base.userdefinedcategory",
+  "pk": 5
+},
+{
+  "fields": {
+    "code": "ccode3"
+  },
+  "model": "base.userdefinedcategory",
+  "pk": 6
+},
+{
+  "fields": {
+    "code": "code1"
+  },
+  "model": "base.userdefinedcategory",
+  "pk": 7
+},
+{
+  "fields": {
+    "code": "code2"
+  },
+  "model": "base.userdefinedcategory",
+  "pk": 8
+},
+{
+  "fields": {
+    "code": "code3"
+  },
+  "model": "base.userdefinedcategory",
+  "pk": 9
+},
+{
+  "fields": {
+    "code": "code4"
+  },
+  "model": "base.userdefinedcategory",
+  "pk": 10
+},
+{
+  "fields": {
+    "code": "pcode3"
+  },
+  "model": "base.userdefinedcategory",
+  "pk": 11
+},
+{
+  "fields": {
+    "code": "bcode1"
+  },
+  "model": "base.userdefinedcategory",
+  "pk": 12
+},
+{
+  "fields": {
+    "code": "bcode2"
+  },
+  "model": "base.userdefinedcategory",
+  "pk": 13
+},
+{
+  "fields": {
+    "display_order": 0,
+    "user_defined_category": 1,
+    "name": "DISPLAY"
+  },
+  "model": "base.userdefinedbcode3myuser",
+  "pk": "-"
+},
+{
+  "fields": {
+    "display_order": 3,
+    "user_defined_category": 1,
+    "name": "CANCELLED"
+  },
+  "model": "base.userdefinedbcode3myuser",
+  "pk": "c"
+},
+{
+  "fields": {
+    "display_order": 1,
+    "user_defined_category": 1,
+    "name": "DELETE"
+  },
+  "model": "base.userdefinedbcode3myuser",
+  "pk": "d"
+},
+{
+  "fields": {
+    "display_order": 2,
+    "user_defined_category": 1,
+    "name": "SUPPRESS"
+  },
+  "model": "base.userdefinedbcode3myuser",
+  "pk": "n"
+},
+{
+  "fields": {
+    "display_order": 4,
+    "user_defined_category": 1,
+    "name": "WITHDRAWN"
+  },
+  "model": "base.userdefinedbcode3myuser",
+  "pk": "w"
+},
+{
+  "fields": {
+    "display_order": 0,
+    "user_defined_category": 2,
+    "name": "DISPLAY"
+  },
+  "model": "base.userdefinedicode2myuser",
+  "pk": "-"
+},
+{
+  "fields": {
+    "display_order": 1,
+    "user_defined_category": 2,
+    "name": "SUPPRESSED"
+  },
+  "model": "base.userdefinedicode2myuser",
+  "pk": "s"
+},
+{
+  "fields": {
+    "display_order": 2,
+    "user_defined_category": 2,
+    "name": "WITHDRAWN"
+  },
+  "model": "base.userdefinedicode2myuser",
+  "pk": "w"
 }
 ]

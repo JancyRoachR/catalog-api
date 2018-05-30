@@ -455,6 +455,11 @@
         "checkout_statistic_group"
       ], 
       [
+        "bibrecorditemrecordlink_set", 
+        "item_record", 
+        "checkout_set"
+      ],
+      [
         "bibrecorditemrecordlink_set",
         "item_record",
         "last_patron_record",
