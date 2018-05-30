@@ -236,6 +236,30 @@ def test_extractvarfields__245_field_is_correct(bib):
             assert vf['subfields'][0]['data'] == 'Testing remote storage holds'
 
 
+def test_extractfixedfields__returns_correct_fielddata(bib):
+    """
+    extract_fixed_fields should return a dictionary object with fixed
+    field data from the Sierra bib record.
+    """
+    fixed = sb.extract_fixedfields(bib)
+    assert fixed['record_id'] == 'b4371446'
+    assert fixed['date_cataloged'].year == 2016
+    assert fixed['date_created'].year == 2013
+    assert fixed['date_last_updated'].year >= 2018
+    assert fixed['bib_type_code'] == '0'
+    assert fixed['bib_type_name'] == 'TEST RECORD'
+    assert fixed['mat_type_code'] == 'a'
+    assert fixed['mat_type_name'] == 'BOOKS'
+    assert fixed['language_code'] == 'eng'
+    assert fixed['language_name'] == 'English'
+    assert fixed['suppress_code'] == '-'
+    assert fixed['country_code'] == 'us'
+    assert fixed['country_name'] == 'United States'
+    assert not fixed['is_suppressed']
+    assert {'code': 'czm', 'name': 'Chilton Media Library'} in fixed['locations']
+    assert {'code': 'rmak', 'name': 'Discovery Park The Factory'} in fixed['locations']
+
+
 def test_extract__gets_all_fields(bib):
     """
     extract should pull the Leader, control fields, and variable length
@@ -247,11 +271,12 @@ def test_extract__gets_all_fields(bib):
     what's on the bib record object, and then doing spot-checks on a
     few important fields to make sure they exist.
     """
-    fields = sb.extract(bib)
+    extracted = sb.extract(bib)
+    marcfields, fixedfields = extracted['marcfields'], extracted['fixedfields']
     exp_num_controlfields = len(bib.record_metadata.controlfield_set.all())
     exp_num_varfields = len(bib.record_metadata.varfield_set.all())
-    assert len(fields) == exp_num_varfields + exp_num_controlfields + 1
-    assert bool([field for field in fields if field['tag'] == 'LDR'])
-    assert bool([field for field in fields if field['tag'] == '001'])
-    assert bool([field for field in fields if field['tag'] == '007'])
-    assert bool([field for field in fields if field['tag'] == '245'])
+    assert len(marcfields) == exp_num_varfields + exp_num_controlfields + 1
+    assert bool([field for field in marcfields if field['tag'] == 'LDR'])
+    assert bool([field for field in marcfields if field['tag'] == '001'])
+    assert bool([field for field in marcfields if field['tag'] == '007'])
+    assert bool([field for field in marcfields if field['tag'] == '245'])

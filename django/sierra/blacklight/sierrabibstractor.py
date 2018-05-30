@@ -1,6 +1,8 @@
 """
-Extract lists of fields from Sierra bib records.
+Extract bib data (marcfields and fixedfields) from Sierra bib records.
 """
+from base import models
+
 from . import marcfieldset as mfs
 
 
@@ -83,14 +85,50 @@ def extract_varfields(bib):
     return mfs.Fieldset(fields)
 
 
+def extract_fixedfields(bib):
+    """
+    Extracts fixed field data from the supplied BibRecord object `bib`
+    and returns a data dictionary.
+    """
+    
+    locations = []
+    for bibloc in bib.bibrecordlocation_set.all():
+        try:
+            loc = bibloc.location
+        except models.Location.DoesNotExist:
+            pass
+        else:
+            locations.append({'code': loc.code, 'name': loc.locationname_set.all()[0].name})
+
+    br_property = bib.bibrecordproperty_set.all()[0]
+    fixed = {}
+    fixed['record_id'] = bib.record_metadata.get_iii_recnum(False)
+    fixed['date_cataloged'] = bib.cataloging_date_gmt
+    fixed['date_created'] = bib.record_metadata.creation_date_gmt
+    fixed['date_last_updated'] = bib.record_metadata.record_last_updated_gmt
+    fixed['bib_type_code'] = br_property.bib_level.code
+    fixed['bib_type_name'] = br_property.bib_level.biblevelpropertyname_set.all()[0].name
+    fixed['mat_type_code'] = br_property.material.code
+    fixed['mat_type_name'] = br_property.material.materialpropertyname_set.all()[0].name
+    fixed['language_code'] = bib.language.code
+    fixed['language_name'] = bib.language.languagepropertyname_set.all()[0].name
+    fixed['suppress_code'] = bib.bcode3
+    fixed['country_code'] = bib.country.code
+    fixed['country_name'] = bib.country.countrypropertyname_set.all()[0].name
+    fixed['is_suppressed'] = bib.is_suppressed
+    fixed['locations'] = locations
+    return fixed
+
+
 def extract(bib):
     """
-    Extracts all fields (Leader, control fields, variable fields)
-    from the supplied BibRecord object (`bib` argument). Returns a list
-    of dict fields. Note they're not returned in a good sort order; if
-    you want them sorted, you'll have to sort them yourself.
+    Extracts all MARC fields (Leader, control fields, variable fields)
+    and fixed fields from the supplied BibRecord object `bib`. Returns
+    a dict, where `fixedfields` contains the fixed fields and
+    `marcfields` contains the marcfieldset list of MARC fields.
     """
     fields = extract_leader(bib)
     fields.extend(extract_controlfields(bib))
     fields.extend(extract_varfields(bib))
-    return fields
+    fixed = extract_fixedfields(bib)
+    return {'fixedfields': fixed, 'marcfields': fields}
