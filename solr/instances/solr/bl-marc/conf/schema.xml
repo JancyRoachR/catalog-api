@@ -87,6 +87,15 @@
   <fields>   
     <!-- NOTE: this is not a full list of fields in the index; dynamic fields are also used -->
     <field name="id" type="string" indexed="true" stored="true" required="true" multiValued="false" />
+    <field name="person_author_search_fullname_forms" type="text" indexed="true" stored="true" multiValued="true" />
+    <field name="person_author_search_bestname" type="text" indexed="true" stored="true" multiValued="false" />
+    <field name="person_author_display" type="string" indexed="true" stored="true" multiValued="false" />
+    <field name="person_author_facet" type="string" indexed="true" stored="true" multiValued="false" />
+    <field name="callnumbers_display" type="string" indexed="true" stored="true" multiValued="true" />
+    <field name="callnumbers_normalized" type="string" indexed="true" stored="true" multiValued="true" />
+
+
+
     <field name="item_ids" type="slong" indexed="true" stored="true" multiValued="true"/>
     <field name="item_record_numbers" type="string" indexed="true" stored="true" multiValued="true"/>
     <field name="timestamp" type="date" indexed="true" stored="true" default="NOW" multiValued="false"/>
