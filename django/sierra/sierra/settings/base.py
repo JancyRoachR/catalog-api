@@ -7,6 +7,8 @@ import dotenv
 
 from django.core.exceptions import ImproperlyConfigured
 
+from . import marcdata
+
 
 def get_env_variable(var_name, default=None):
     """Get the environment variable or return default value"""
@@ -423,3 +425,5 @@ ADMIN_ACCESS = get_env_variable('ADMIN_ACCESS', True)
 
 # Is this settings file for testing?
 TESTING = False
+
+MARCDATA = marcdata
