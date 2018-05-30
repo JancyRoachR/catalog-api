@@ -17,6 +17,8 @@ from django.conf import settings
 from export import exporter
 from export.basic_exporters import BibsToSolr, BibsDownloadMarc
 from export.sierra2marc import S2MarcBatch
+import record_converters
+
 
 # set up logger, for debugging
 logger = logging.getLogger('sierra.custom')
@@ -146,6 +148,137 @@ class BaseSolrMarcBibsToSolr(BibsToSolr):
     def final_callback(self, vals={}, status='success'):
         bibs_solr = type(self).solr_conn('bibs')
         log_label = type(self).__name__
+        self.log('Info', 'Committing updates to Solr...', log_label)
+        bibs_solr.commit()
+
+
+class BaseNonSolrmarcBibsToSolr(exporter.Exporter):
+    """
+    Export Bibs from the Sierra DB and load into Solr; no Solrmarc.
+
+    This is a base class for building Export processes to load Bib
+    records from Sierra into Solr, WITHOUT using Solrmarc (or Haystack,
+    for that matter).
+
+    The simplest way to use this is to subclass it, then override the
+    class attributes `cores`, `sierrabib_to_untbib`, and
+    `untbib_to_solr`.
+
+    `cores` is a dictionary defining the solr core(s) to load records
+    into.
+
+    `sierrabib_to_untbib` is a record converter object that will
+    convert a Sierra BibRecord object to a dict that can then be passed
+    to `untbib_to_solr`.
+
+    `untbib_to_solr` is another record converter object that will
+    convert the dict created by the `sierrabib_to_untbib` conversion
+    into a data dict that you can pass to pysolr to load.
+
+    The record converter classes shown in the class definition below
+    are placeholders, but they're good default choices to use--just
+    pass the appropriate parameters specifying various field mappings
+    to instantiate them. Or you can use different classes.
+    """
+
+    cores = {'bibs': 'SPECIFY_SOLR_CORE_HERE'}
+    sierrabib_to_untbib = record_converters.SierraBibToUntbib(
+        bibfield_map={
+            # specify bib field mapping here
+        },
+        itemfield_map={
+            # specify item field mapping here
+        }
+    )
+    untbib_to_solr = record_converters.UntbibToSolr(
+        solrfield_map={
+            # specify solr field mapping here
+        }
+    )
+
+    max_rec_chunk = 1000
+    model_name = 'BibRecord'
+    deletion_filter = [
+        {
+            'deletion_date_gmt__isnull': False,
+            'record_type__code': 'b'
+        }
+    ]
+    prefetch_related = [
+        'record_metadata__varfield_set',
+        'record_metadata__controlfield_set',
+        'record_metadata__leaderfield_set',
+        'bibrecorditemrecordlink_set',
+        'bibrecorditemrecordlink_set__item_record',
+        'bibrecorditemrecordlink_set__item_record__record_metadata',
+        'bibrecordproperty_set',
+        'bibrecordproperty_set__material__materialpropertyname_set'
+    ]
+    select_related = ['record_metadata']
+
+    @classmethod
+    def solr_url(cls, ctype):
+        host, port = settings.SOLR_HOST, settings.SOLR_PORT
+        return 'http://{}:{}/solr/{}'.format(host, port, cls.cores[ctype])
+
+    @classmethod
+    def solr_conn(cls, ctype):
+        return pysolr.Solr(cls.solr_url(ctype))
+
+    def format_error_msg(self, error, record=None):
+        msg = error
+        if record is not None:
+            record_id = self.get_record_id(record)
+            msg = '{}: {}'.format(record_id, msg)
+        return msg
+
+    def export_records(self, records, vals={}):
+        log_label = type(self).__name__
+        bibs_solr = type(self).solr_conn('bibs')
+        cls = type(self)
+        solr_records = []
+        for rec in records:
+            try:
+                untbib = self.sierrabib_to_untbib.convert(rec)
+            except Exception as e:
+                msg = self.format_error_msg('Bib conversion error: {}'.format(e), rec)
+                self.log('Error', msg, log_label)
+            try:
+                solr_dict = self.untbib_to_solr.convert(untbib)
+            except Exception as e:
+                msg = self.format_error_msg('Solr conversion error: {}'.format(e), rec)
+                self.log('Error', msg, log_label)
+            else:
+                solr_records.append(solr_dict)
+        try:
+            bibs_solr.add(solr_records, commit=False)
+        except Exception as e:
+            self.log('Info', solr_records, log_label)
+            msg = self.format_error_msg('Indexing error: {}'.format(e))
+            self.log('Error', msg, log_label)
+        return vals
+
+    def delete_records(self, records, vals={}):
+        log_label = type(self).__name__
+        bibs_solr = type(self).solr_conn('bibs')
+        for rec in records:
+            record_id = self.get_record_id(rec)
+            try:
+                bibs_solr.delete(id=record_id, commit=False)
+            except Exception as e:
+                msg = self.format_error_msg(e, record)
+                self.log('Error', msg, log_label)
+        return vals
+    
+    def get_record_id(self, record):
+        try:
+            return record.record_metadata.get_iii_recnum(False)
+        except AttributeError:
+            return record.get_iii_recnum(False)
+
+    def final_callback(self, vals={}, status='success'):
+        log_label = type(self).__name__
+        bibs_solr = type(self).solr_conn('bibs')
         self.log('Info', 'Committing updates to Solr...', log_label)
         bibs_solr.commit()
 
